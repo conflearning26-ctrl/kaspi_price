@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="http://kaspi.kz/kaspifeed/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-12-19 08:06" xsi:schemaLocation="http://kaspi.kz/kaspifeed/1.0 http://kaspi.kz/kaspifeed/1.0/kaspifeed.xsd">
+<kaspi_catalog xmlns="http://kaspi.kz/kaspifeed/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-12-19 08:11" xsi:schemaLocation="http://kaspi.kz/kaspifeed/1.0 http://kaspi.kz/kaspifeed/1.0/kaspifeed.xsd">
 	<company>Ваше Название Магазина</company>
 	<merchantid>ВАШ_ID_МЕРЧАНТА</merchantid>
 	<offers>
@@ -223,6 +223,14 @@
 			<model>IKEA набор инструментов для барбекю GRILLTIDER 005.168.62 3 шт</model>
 			<brand>IKEA</brand>
 			<price>9576</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="103106363">
+			<model>Стеллаж напольный HOFF, 80x29.5x190 см, бежевый</model>
+			<brand>HOFF</brand>
+			<price>28672</price>
 			<availabilities>
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
@@ -627,6 +635,14 @@
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
 		</offer>
+		<offer sku="100108110">
+			<model>Наволочка IKEA Айна 65x65 лен, 1 шт</model>
+			<brand>IKEA</brand>
+			<price>5999</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
 		<offer sku="103046739">
 			<model>IKEA рулонодержатель ГУЛЬТАРП 604.628.42 1 шт, нержавеющая сталь</model>
 			<brand>IKEA</brand>
@@ -855,6 +871,14 @@
 			<model>IKEA корзина универсальная 25x25x18 см, полиэстер</model>
 			<brand>IKEA</brand>
 			<price>7314</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="107744954">
+			<model>Табурет IKEA 401788.88, 50x43x39 см, белый</model>
+			<brand>IKEA</brand>
+			<price>36999</price>
 			<availabilities>
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
@@ -1111,14 +1135,6 @@
 			<model>IKEA подушка на стул 36x32 см, Куддарна 60411070</model>
 			<brand>IKEA</brand>
 			<price>4013</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="103106363">
-			<model>Стеллаж напольный HOFF, 80x29.5x190 см, бежевый</model>
-			<brand>HOFF</brand>
-			<price>28672</price>
 			<availabilities>
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
@@ -1403,14 +1419,6 @@
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
 		</offer>
-		<offer sku="100108110">
-			<model>Наволочка IKEA Айна 65x65 лен, 1 шт</model>
-			<brand>IKEA</brand>
-			<price>5999</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
 		<offer sku="108556531">
 			<model>Тюль IKEA 145x300 см 2 шт, полиэстер, розовый</model>
 			<brand>IKEA</brand>
@@ -1487,14 +1495,6 @@
 			<model>IKEA рулонодержатель ГУЛЬТАРП 204.628.39 1 шт, нержавеющая сталь</model>
 			<brand>IKEA</brand>
 			<price>4941</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="107744954">
-			<model>Табурет IKEA 401788.88, 50x43x39 см, белый</model>
-			<brand>IKEA</brand>
-			<price>36999</price>
 			<availabilities>
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
