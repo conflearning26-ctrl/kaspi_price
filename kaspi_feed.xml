@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="http://kaspi.kz/kaspifeed/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-12-19 08:11" xsi:schemaLocation="http://kaspi.kz/kaspifeed/1.0 http://kaspi.kz/kaspifeed/1.0/kaspifeed.xsd">
-	<company>Ваше Название Магазина</company>
-	<merchantid>ВАШ_ID_МЕРЧАНТА</merchantid>
+<kaspi_catalog xmlns="http://kaspi.kz/kaspifeed/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-12-19 09:03" xsi:schemaLocation="http://kaspi.kz/kaspifeed/1.0 http://kaspi.kz/kaspifeed/1.0/kaspifeed.xsd">
+	<company>682001</company>
+	<merchantid>682001</merchantid>
 	<offers>
 		<offer sku="100409035">
 			<model>Дозатор для жидкого мыла IKEA Таккан 90388799</model>
@@ -15,6 +15,14 @@
 			<model>Набор вешалок IKEA БАГИС 10415971 4 предмета</model>
 			<brand>IKEA</brand>
 			<price>2499</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="134278106">
+			<model>IKEA губка SVAMPIG 3 шт, полиуретан, полиэстер, нейлон</model>
+			<brand>IKEA</brand>
+			<price>1199</price>
 			<availabilities>
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
@@ -43,98 +51,18 @@
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
 		</offer>
+		<offer sku="101042501">
+			<model>Крышка IKEA 28х39 см, пластик</model>
+			<brand>IKEA</brand>
+			<price>1000</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
 		<offer sku="101140528">
 			<model>IKEA Вескен 30450812 черный</model>
 			<brand>IKEA</brand>
 			<price>14286</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="100460450">
-			<model>Сушилка IKEA отдельностоящая одноярусная ,металл</model>
-			<brand>IKEA</brand>
-			<price>4797</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="105310881">
-			<model>Ковер IKEA 60x90 см, короткий ворс, Швеция</model>
-			<brand>IKEA</brand>
-			<price>11525</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="140091988">
-			<model>IKEA губка PEPPRIG 3 шт, полиуретан, полиэстер</model>
-			<brand>IKEA</brand>
-			<price>1499</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="105976843">
-			<model>IKEA аксессуар, полиэстер, хлопок, 83x55, 90489227</model>
-			<brand>IKEA</brand>
-			<price>7199</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="103526985">
-			<model>Сковорода IKEA  28 см с антипригарным покрытием, алюминий</model>
-			<brand>IKEA</brand>
-			<price>11999</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="101602897">
-			<model>Чехол для верхней одежды IKEA, полиэтиленвинилацетат</model>
-			<brand>IKEA</brand>
-			<price>12347</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="100445736">
-			<model>IKEA чабрец 20x22 см, ФЕЙКА 10375178</model>
-			<brand>IKEA</brand>
-			<price>3999</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="100107355">
-			<model>IKEA набор полотенец Вогшен 40350992 50x30 см 2 шт, хлопок</model>
-			<brand>IKEA</brand>
-			<price>4998</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="100106451">
-			<model>Плед IKEA Ингрун 130х170 см, хлопок, акрил, бежевый</model>
-			<brand>IKEA</brand>
-			<price>14999</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="132662592">
-			<model>Набор тарелок IKEA 16 см, 4 шт, керамика</model>
-			<brand>IKEA</brand>
-			<price>8499</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="134278106">
-			<model>IKEA губка SVAMPIG 3 шт, полиуретан, полиэстер, нейлон</model>
-			<brand>IKEA</brand>
-			<price>1199</price>
 			<availabilities>
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
@@ -147,6 +75,110 @@
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
 		</offer>
+		<offer sku="106836885">
+			<model>Подставка IKEA дерево</model>
+			<brand>IKEA</brand>
+			<price>2988</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="100989650">
+			<model>IKEA Фискбу 30378996 10х15 черный</model>
+			<brand>IKEA</brand>
+			<price>1527</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="105262243">
+			<model>IKEA пакет 705.161.75 для хранения продуктов</model>
+			<brand>IKEA</brand>
+			<price>2706</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="100997606">
+			<model>IKEA СКОГСВИКЕН черный</model>
+			<brand>IKEA</brand>
+			<price>1748</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="100931695">
+			<model>IKEA Брогрунд 50349762 серебристый</model>
+			<brand>IKEA</brand>
+			<price>5487</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="105192171">
+			<model>IKEA набор полотенец Вагшон 403.536.22 30x30 см 4 шт, хлопок</model>
+			<brand>IKEA</brand>
+			<price>3837</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="100337666">
+			<model>Декоративная свеча IKEA ХЕМШЁ 003.716.75 8 см, 4 шт</model>
+			<brand>IKEA</brand>
+			<price>4998</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="108149818">
+			<model>IKEA таз PEPPRIG 90499523 4 л</model>
+			<brand>IKEA</brand>
+			<price>4387</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="100150893">
+			<model>Полка IKEA Лакк 30379496, 30х26x5 см, белый</model>
+			<brand>IKEA</brand>
+			<price>7098</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="100466787">
+			<model>Молоток для отбивания мяса IKEA пластик, 1 шт</model>
+			<brand>IKEA</brand>
+			<price>7587</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="110744110">
+			<model>IKEA набор разделочных досок Базовая коллекция 301.934.84 3 шт, дерево, бамбук</model>
+			<brand>IKEA</brand>
+			<price>9999</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="104692381">
+			<model>IKEA салфетница Ликсидиг 803.449.56, металл</model>
+			<brand>IKEA</brand>
+			<price>3446</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="108383567">
+			<model>IKEA пакет 405.255.34 для замораживания, для хранения продуктов</model>
+			<brand>IKEA</brand>
+			<price>3648</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
 		<offer sku="114310282">
 			<model>IKEA набор полотенец 295.022.37 70x40 см 4 шт, хлопок</model>
 			<brand>IKEA</brand>
@@ -155,10 +187,194 @@
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
 		</offer>
-		<offer sku="108226771">
-			<model>IKEA 002.110.88, коричнево-чёрный</model>
+		<offer sku="100872858">
+			<model>Крышка IKEA 57х39 см, пластик</model>
 			<brand>IKEA</brand>
-			<price>49757</price>
+			<price>4199</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="100178719">
+			<model>Форма для выпечки IKEA стекло, 1 шт</model>
+			<brand>IKEA</brand>
+			<price>4299</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="100114440">
+			<model>Часы электронные IKEA Клоккис 20335238, пластик</model>
+			<brand>IKEA</brand>
+			<price>3198</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="101392397">
+			<model>Простыня IKEA DVALA-1 180x200, хлопок</model>
+			<brand>IKEA</brand>
+			<price>12418</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="100547559">
+			<model>IKEA роза 20 см, ФЕЙКА 20395294</model>
+			<brand>IKEA</brand>
+			<price>2999</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="100123483">
+			<model>Набор столовых приборов IKEA 24 шт, серебристый Фернуфт 60378004</model>
+			<brand>IKEA</brand>
+			<price>14893</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="109118616">
+			<model>IKEA запасной блок для роллера 301.411.26 белый</model>
+			<brand>IKEA</brand>
+			<price>4899</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="100734883">
+			<model>Часы механические IKEA SNIFFA 80473104, пластик</model>
+			<brand>IKEA</brand>
+			<price>3899</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="100460450">
+			<model>Сушилка IKEA отдельностоящая одноярусная ,металл</model>
+			<brand>IKEA</brand>
+			<price>4797</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="100178206">
+			<model>IKEA сумка для белья 60x36x36 см, текстиль</model>
+			<brand>IKEA</brand>
+			<price>8418</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="101023146">
+			<model>IKEA Кноппэнг 80387130 13х18 черный</model>
+			<brand>IKEA</brand>
+			<price>3034</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="101016588">
+			<model>IKEA Кноппэнг 40427270 13х18 белый</model>
+			<brand>IKEA</brand>
+			<price>2737</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="101016713">
+			<model>IKEA Кноппэнг 404.273.07 50x70 см белый</model>
+			<brand>IKEA</brand>
+			<price>15141</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="106199597">
+			<model>IKEA миска 104.217.93 2 шт, пластик</model>
+			<brand>IKEA</brand>
+			<price>7329</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="108010158">
+			<model>IKEA миска 104.771.91 4 шт, керамика</model>
+			<brand>IKEA</brand>
+			<price>8498</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="102217708">
+			<model>Наволочка IKEA 50x50 синий, черный</model>
+			<brand>IKEA</brand>
+			<price>5156</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="100713890">
+			<model>IKEA прямоугольная Фискбу 903.789.98 13x18 см черный</model>
+			<brand>IKEA</brand>
+			<price>1527</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="108052854">
+			<model>Ароматическая свеча IKEA ЛУГНАРЕ Жасмин 905.021.58 3 см, 30 шт</model>
+			<brand>IKEA</brand>
+			<price>4159</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="108430932">
+			<model>IKEA 104.878.16, 70x34x86 см, белый</model>
+			<brand>IKEA</brand>
+			<price>47998</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="102015233">
+			<model>IKEA набор крючков Гультарп 504.444.48 5 шт, нержавеющая сталь</model>
+			<brand>IKEA</brand>
+			<price>4998</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="106342574">
+			<model>Ароматическая свеча IKEA Эмлик Ваниль 105.021.62 3 см, 30 шт</model>
+			<brand>IKEA</brand>
+			<price>3964</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="101564213">
+			<model>Ложка IKEA 4 шт, серебристый Фернуфт 604.284.81</model>
+			<brand>IKEA</brand>
+			<price>4989</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="100106771">
+			<model>Подушка IKEA 40x65 см, полиэстер</model>
+			<brand>IKEA</brand>
+			<price>2999</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="101394513">
+			<model>IKEA накидка для стула BRAMON 20484662 бежевый 34х34 см</model>
+			<brand>IKEA</brand>
+			<price>1967</price>
 			<availabilities>
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
@@ -179,10 +395,202 @@
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
 		</offer>
-		<offer sku="115868968">
-			<model>IKEA набор полотенец 905.495.18 30x30 см 4 шт, хлопок</model>
+		<offer sku="108383573">
+			<model>IKEA пакет 005.255.31 для хранения продуктов</model>
 			<brand>IKEA</brand>
-			<price>3538</price>
+			<price>2706</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="101863181">
+			<model>IKEA Бактрадитион 204.801.69 белый-бирюзовый</model>
+			<brand>IKEA</brand>
+			<price>8985</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="140091988">
+			<model>IKEA губка PEPPRIG 3 шт, полиуретан, полиэстер</model>
+			<brand>IKEA</brand>
+			<price>1499</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="100173192">
+			<model>IKEA подушка на стул 36x32 см, Куддарна 60411070</model>
+			<brand>IKEA</brand>
+			<price>4013</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="110390284">
+			<model>IKEA корзина универсальная 25x25x18 см, полиэстер</model>
+			<brand>IKEA</brand>
+			<price>7314</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="129534651">
+			<model>IKEA саморез универсальный (4.5х40 мм), 175 шт.</model>
+			<brand>IKEA</brand>
+			<price>7899</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="118472957">
+			<model>Ароматическая свеча IKEA 905.558.54 3 см, 30 шт</model>
+			<brand>IKEA</brand>
+			<price>4199</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="101110269">
+			<model>Дозатор для жидкого мыла IKEA Экольн 10493006</model>
+			<brand>IKEA</brand>
+			<price>7907</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="107584624">
+			<model>Стол письменный IKEA Torald, 65х40x75 см, белый</model>
+			<brand>IKEA</brand>
+			<price>27817</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="123615918">
+			<model>Простыня IKEA 90x200, хлопок</model>
+			<brand>IKEA</brand>
+			<price>11781</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="100434824">
+			<model>IKEA коробка универсальная 11x11x19 см, текстиль</model>
+			<brand>IKEA</brand>
+			<price>8605</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="132662592">
+			<model>Набор тарелок IKEA 16 см, 4 шт, керамика</model>
+			<brand>IKEA</brand>
+			<price>8499</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="103106363">
+			<model>Стеллаж напольный HOFF, 80x29.5x190 см, бежевый</model>
+			<brand>HOFF</brand>
+			<price>28672</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="108571774">
+			<model>IKEA для теста 104.852.71, лезвие: нержавеющая сталь 1 шт</model>
+			<brand>IKEA</brand>
+			<price>4498</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="108222447">
+			<model>IKEA 2112 белый</model>
+			<brand>IKEA</brand>
+			<price>20698</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="107744954">
+			<model>Табурет IKEA 401788.88, 50x43x39 см, белый</model>
+			<brand>IKEA</brand>
+			<price>36999</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="108764936">
+			<model>Одеяло IKEA Сильвертопп 404.242.24 150x200 летнее</model>
+			<brand>IKEA</brand>
+			<price>8978</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="120858095">
+			<model>IKEA коврик ALSTERN 60x40 см, хлопок</model>
+			<brand>IKEA</brand>
+			<price>7357</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="118978524">
+			<model>IKEA гвоздика 30 см, 503.356.61</model>
+			<brand>IKEA</brand>
+			<price>1199</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="106647294">
+			<model>IKEA держатель Kalkgrund 002.914.76 1 шт, нержавеющая сталь</model>
+			<brand>IKEA</brand>
+			<price>9796</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="103526985">
+			<model>Сковорода IKEA  28 см с антипригарным покрытием, алюминий</model>
+			<brand>IKEA</brand>
+			<price>11999</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="119489317">
+			<model>Журнальный столик IKEA приставной РИАН, 50x30x50 см, черный</model>
+			<brand>IKEA</brand>
+			<price>40999</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="105192168">
+			<model>IKEA набор полотенец Вагшон 103.509.98 30x30 см 4 шт, хлопок</model>
+			<brand>IKEA</brand>
+			<price>4499</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="100104841">
+			<model>IKEA ваза 14 см Тидваттен, стекло</model>
+			<brand>IKEA</brand>
+			<price>3289</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="105908543">
+			<model>IKEA набор контейнеров 505.079.59 3 шт, полипропилен</model>
+			<brand>IKEA</brand>
+			<price>9164</price>
 			<availabilities>
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
@@ -227,82 +635,74 @@
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
 		</offer>
-		<offer sku="103106363">
-			<model>Стеллаж напольный HOFF, 80x29.5x190 см, бежевый</model>
-			<brand>HOFF</brand>
-			<price>28672</price>
+		<offer sku="112903079">
+			<model>Портьеры IKEA 145x250 см 2 шт, полиэстер, серый</model>
+			<brand>IKEA</brand>
+			<price>43999</price>
 			<availabilities>
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
 		</offer>
-		<offer sku="124126276">
-			<model>Электронный 000.001.11</model>
+		<offer sku="100108110">
+			<model>Наволочка IKEA Айна 65x65 лен, 1 шт</model>
+			<brand>IKEA</brand>
+			<price>5999</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="129855723">
+			<model>IKEA стакан EKOLN 1 шт, керамика</model>
+			<brand>IKEA</brand>
+			<price>6499</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="104684342">
+			<model>Простыня IKEA 140x200, хлопок</model>
+			<brand>IKEA</brand>
+			<price>14998</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="108222201">
+			<model>IKEA ваза 17 см SANNOLIK 403.097.85, стекло</model>
+			<brand>IKEA</brand>
+			<price>7074</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="142673666">
+			<model>Полка VX1092672 1 шт, пластик</model>
 			<brand>Без бренда</brand>
-			<price>89999</price>
+			<price>4288</price>
 			<availabilities>
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
 		</offer>
-		<offer sku="109259499">
-			<model>IKEA полотенце 104.946.09 140x70 см 1 шт, хлопок</model>
+		<offer sku="101996163">
+			<model>IKEA ваза 21 см Чилифрукт, стекло</model>
 			<brand>IKEA</brand>
-			<price>7938</price>
+			<price>10788</price>
 			<availabilities>
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
 		</offer>
-		<offer sku="102240072">
-			<model>IKEA набор аксессуаров Скиссен 00483116 синий</model>
+		<offer sku="105331855">
+			<model>Подушка IKEA 50x60 см, полиэстерная вата</model>
 			<brand>IKEA</brand>
-			<price>6980</price>
+			<price>11999</price>
 			<availabilities>
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
 		</offer>
-		<offer sku="120564626">
-			<model>Стол письменный IKEA ADILS, 120х60x73 см, черный, белый</model>
+		<offer sku="101378046">
+			<model>IKEA KVASP 203.981.98 розовый</model>
 			<brand>IKEA</brand>
-			<price>58699</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="104527173">
-			<model>Садовая лейка IKEA 703.805.58 белый 1.2 л</model>
-			<brand>IKEA</brand>
-			<price>4105</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="100931563">
-			<model>Диспенсер для жидкого мыла IKEA Балунген 20369558</model>
-			<brand>IKEA</brand>
-			<price>13187</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="107584624">
-			<model>Стол письменный IKEA Torald, 65х40x75 см, белый</model>
-			<brand>IKEA</brand>
-			<price>27817</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="123615918">
-			<model>Простыня IKEA 90x200, хлопок</model>
-			<brand>IKEA</brand>
-			<price>11781</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="100106600">
-			<model>Плед IKEA Тьербломстер 150х210 см, полиэстер, серый</model>
-			<brand>IKEA</brand>
-			<price>8856</price>
+			<price>3431</price>
 			<availabilities>
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
@@ -315,10 +715,74 @@
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
 		</offer>
-		<offer sku="100993782">
-			<model>IKEA Мариатерес 60479606 серый</model>
+		<offer sku="105976843">
+			<model>IKEA аксессуар, полиэстер, хлопок, 83x55, 90489227</model>
 			<brand>IKEA</brand>
-			<price>9221</price>
+			<price>7199</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="108556531">
+			<model>Тюль IKEA 145x300 см 2 шт, полиэстер, розовый</model>
+			<brand>IKEA</brand>
+			<price>15788</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="102562611">
+			<model>Stockholm воронка Чосигт 80372666, пластик</model>
+			<brand>Stockholm</brand>
+			<price>1397</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="110280525">
+			<model>Ковер IKEA 60x90 см, короткий ворс, Швеция</model>
+			<brand>IKEA</brand>
+			<price>12353</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="113312330">
+			<model>Портьеры IKEA 145x250 см 2 шт, полиэстер, зеленый</model>
+			<brand>IKEA</brand>
+			<price>41999</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="100522252">
+			<model>Простыня IKEA 80x130, хлопок</model>
+			<brand>IKEA</brand>
+			<price>6963</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="100945813">
+			<model>IKEA TOTEBO 70469664 розовый</model>
+			<brand>IKEA</brand>
+			<price>3022</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="104527173">
+			<model>Садовая лейка IKEA 703.805.58 белый 1.2 л</model>
+			<brand>IKEA</brand>
+			<price>4105</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="100527702">
+			<model>Простыня IKEA 80x130, хлопок</model>
+			<brand>IKEA</brand>
+			<price>5883</price>
 			<availabilities>
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
@@ -331,10 +795,42 @@
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
 		</offer>
+		<offer sku="100993782">
+			<model>IKEA Мариатерес 60479606 серый</model>
+			<brand>IKEA</brand>
+			<price>9221</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
 		<offer sku="109263950">
 			<model>IKEA орхидея 58 см, ФЕЙКА 802.859.09</model>
 			<brand>IKEA</brand>
 			<price>20597</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="107284476">
+			<model>Полка FALKO 2 497.02.00, 80х19.2x53.2 см, белый</model>
+			<brand>Без бренда</brand>
+			<price>11999</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="124126276">
+			<model>Электронный 000.001.11</model>
+			<brand>Без бренда</brand>
+			<price>89999</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="120874281">
+			<model>Пуф IKEA Strandmon, 60x40x44 см, желтый</model>
+			<brand>IKEA</brand>
+			<price>80502</price>
 			<availabilities>
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
@@ -347,18 +843,210 @@
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
 		</offer>
-		<offer sku="102015204">
-			<model>Карниз IKEA профильный однорядный белый 180 см</model>
+		<offer sku="100106388">
+			<model>Простыня IKEA 80x200, трикотаж</model>
 			<brand>IKEA</brand>
-			<price>7571</price>
+			<price>11002</price>
 			<availabilities>
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
 		</offer>
-		<offer sku="101042501">
-			<model>Крышка IKEA 28х39 см, пластик</model>
+		<offer sku="112551945">
+			<model>Складной зонт IKEA механика черный, бежевый</model>
 			<brand>IKEA</brand>
-			<price>1000</price>
+			<price>7598</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="118909455">
+			<model>Простыня IKEA 150x200, полиэстер</model>
+			<brand>IKEA</brand>
+			<price>7799</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="100180069">
+			<model>Бра настенный IKEA Е14, серебристый</model>
+			<brand>IKEA</brand>
+			<price>37884</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="103047511">
+			<model>IKEA Вешалка настенная дерево, 57x5 см, HÖVOLM ХЁВОЛЬМ 705.000.61</model>
+			<brand>IKEA</brand>
+			<price>21089</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="100107355">
+			<model>IKEA набор полотенец Вогшен 40350992 50x30 см 2 шт, хлопок</model>
+			<brand>IKEA</brand>
+			<price>4998</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="100548324">
+			<model>IKEA ФЕЙКА Папоротник 90433947</model>
+			<brand>IKEA</brand>
+			<price>4289</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="103046734">
+			<model>IKEA рулонодержатель ГУЛЬТАРП 204.628.39 1 шт, нержавеющая сталь</model>
+			<brand>IKEA</brand>
+			<price>4941</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="115868968">
+			<model>IKEA набор полотенец 905.495.18 30x30 см 4 шт, хлопок</model>
+			<brand>IKEA</brand>
+			<price>3538</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="100931563">
+			<model>Диспенсер для жидкого мыла IKEA Балунген 20369558</model>
+			<brand>IKEA</brand>
+			<price>13187</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="100106600">
+			<model>Плед IKEA Тьербломстер 150х210 см, полиэстер, серый</model>
+			<brand>IKEA</brand>
+			<price>8856</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="114319919">
+			<model>Комплект IKEA Бруксвара 2-спальный полиэстер, 2 наволочки: 50x80 см</model>
+			<brand>IKEA</brand>
+			<price>18399</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="100342351">
+			<model>IKEA смешанный набор КВЭЛЛЬСВАРД 40427996 алюминий 3 в 1</model>
+			<brand>IKEA</brand>
+			<price>38999</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="109259499">
+			<model>IKEA полотенце 104.946.09 140x70 см 1 шт, хлопок</model>
+			<brand>IKEA</brand>
+			<price>7938</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="107740714">
+			<model>IKEA набор полотенец DIMFORSEN 405.128.81 30x30 см 4 шт, хлопок, вискоза</model>
+			<brand>IKEA</brand>
+			<price>3317</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="100547355">
+			<model>Настольная лампа IKEA 40472917 E14, пластик, полистирол</model>
+			<brand>IKEA</brand>
+			<price>8787</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="102240072">
+			<model>IKEA набор аксессуаров Скиссен 00483116 синий</model>
+			<brand>IKEA</brand>
+			<price>6980</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="100115665">
+			<model>Стеллаж напольный IKEA Бримнэс 103.833.38, 60x35x190 см, черный</model>
+			<brand>IKEA</brand>
+			<price>153107</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="120564626">
+			<model>Стол письменный IKEA ADILS, 120х60x73 см, черный, белый</model>
+			<brand>IKEA</brand>
+			<price>58699</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="100066044">
+			<model>Портьеры IKEA 145x300 см 2 шт, полиэстер, желтый</model>
+			<brand>IKEA</brand>
+			<price>31798</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="102498082">
+			<model>IKEA набор посуды АННОНС 90372661 сталь, стекло 3 в 1</model>
+			<brand>IKEA</brand>
+			<price>24698</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="101269023">
+			<model>IKEA Неребю 40465926 береза</model>
+			<brand>IKEA</brand>
+			<price>7198</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="101611426">
+			<model>IKEA кольца для шторы Сирлиг 503.707.15 белый</model>
+			<brand>IKEA</brand>
+			<price>2888</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="109284624">
+			<model>IKEA органайзер для обуви серый, 1 шт</model>
+			<brand>IKEA</brand>
+			<price>2497</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="115798752">
+			<model>IKEA 603.501.230 белый</model>
+			<brand>IKEA</brand>
+			<price>8989</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="114310586">
+			<model>Комплект IKEA 1.5-спальный хлопок, : 50x80 см</model>
+			<brand>IKEA</brand>
+			<price>18999</price>
 			<availabilities>
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
@@ -379,66 +1067,18 @@
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
 		</offer>
-		<offer sku="100150893">
-			<model>Полка IKEA Лакк 30379496, 30х26x5 см, белый</model>
+		<offer sku="101502481">
+			<model>Складной зонт IKEA механика черный</model>
 			<brand>IKEA</brand>
-			<price>7098</price>
+			<price>7939</price>
 			<availabilities>
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
 		</offer>
-		<offer sku="100150989">
-			<model>Полка IKEA Лакк 00430590, 30х26x5 см, черный</model>
+		<offer sku="105331900">
+			<model>Подушка IKEA 50x60 см, полиэстер</model>
 			<brand>IKEA</brand>
-			<price>8799</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="105262243">
-			<model>IKEA пакет 705.161.75 для хранения продуктов</model>
-			<brand>IKEA</brand>
-			<price>2706</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="105192171">
-			<model>IKEA набор полотенец Вагшон 403.536.22 30x30 см 4 шт, хлопок</model>
-			<brand>IKEA</brand>
-			<price>3837</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="103046986">
-			<model>IKEA рейлинг ГУЛЬТАРП 504.444.34 1 шт, нержавеющая сталь</model>
-			<brand>IKEA</brand>
-			<price>8998</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="114293342">
-			<model>Комплект IKEA БРУКСВАРА 1.5-спальный полиэстер, 1 наволочка: 50x80 см</model>
-			<brand>IKEA</brand>
-			<price>17199</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="100337666">
-			<model>Декоративная свеча IKEA ХЕМШЁ 003.716.75 8 см, 4 шт</model>
-			<brand>IKEA</brand>
-			<price>4998</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="103945011">
-			<model>IKEA насадка-дозатор 50432148 белый, серый 1 шт</model>
-			<brand>IKEA</brand>
-			<price>3280</price>
+			<price>2957</price>
 			<availabilities>
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
@@ -455,110 +1095,6 @@
 			<model>IKEA ФЕЙКА Орхидея 40371961</model>
 			<brand>IKEA</brand>
 			<price>8888</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="100928096">
-			<model>IKEA подставка Сатсумас 20371976, дерево, металл</model>
-			<brand>IKEA</brand>
-			<price>29988</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="100178719">
-			<model>Форма для выпечки IKEA стекло, 1 шт</model>
-			<brand>IKEA</brand>
-			<price>4299</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="100548199">
-			<model>IKEA ФЕЙКА Бамбук 20433941</model>
-			<brand>IKEA</brand>
-			<price>3979</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="100989650">
-			<model>IKEA Фискбу 30378996 10х15 черный</model>
-			<brand>IKEA</brand>
-			<price>1527</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="108383560">
-			<model>Держатель IKEA пластик, сталь</model>
-			<brand>IKEA</brand>
-			<price>9723</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="100733115">
-			<model>Портьеры IKEA 210x300 см 1 шт, полиэстер, голубой</model>
-			<brand>IKEA</brand>
-			<price>16869</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="105994535">
-			<model>Комплект IKEA 2-спальный хлопок, : 50x60 см</model>
-			<brand>IKEA</brand>
-			<price>32673</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="108556536">
-			<model>Комплект IKEA Витпирола 1.5-спальный хлопок, 1 наволочка: 50x60 см</model>
-			<brand>IKEA</brand>
-			<price>14143</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="107284476">
-			<model>Полка FALKO 2 497.02.00, 80х19.2x53.2 см, белый</model>
-			<brand>Без бренда</brand>
-			<price>11999</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="103046969">
-			<model>IKEA рулонодержатель ГУЛЬТАРП 204.444.40 1 шт, нержавеющая сталь</model>
-			<brand>IKEA</brand>
-			<price>6616</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="100997606">
-			<model>IKEA СКОГСВИКЕН черный</model>
-			<brand>IKEA</brand>
-			<price>1748</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="112809913">
-			<model>Кружка IKEA «ГЛАДЕЛИГ», 370 мл, керамика, 1 шт.</model>
-			<brand>IKEA</brand>
-			<price>4499</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="106647305">
-			<model>IKEA держатель Лиллашён 004.566.41 1 шт, металл, пластик</model>
-			<brand>IKEA</brand>
-			<price>8762</price>
 			<availabilities>
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
@@ -583,102 +1119,6 @@
 			<model>IKEA набор крючков Клюкет 705.035.97 3 шт, алюминий</model>
 			<brand>IKEA</brand>
 			<price>8398</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="115232236">
-			<model>IKEA набор полотенец 605.128.80 30x30 см 4 шт, хлопок, вискоза</model>
-			<brand>IKEA</brand>
-			<price>4299</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="110287211">
-			<model>Полка IKEA Ramshult 093.254.72, 120х20x20 см, черный</model>
-			<brand>IKEA</brand>
-			<price>37346</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="108222201">
-			<model>IKEA ваза 17 см SANNOLIK 403.097.85, стекло</model>
-			<brand>IKEA</brand>
-			<price>7074</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="111331720">
-			<model>IKEA кольцо 904.801.61, нержавеющая сталь</model>
-			<brand>IKEA</brand>
-			<price>7945</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="101023146">
-			<model>IKEA Кноппэнг 80387130 13х18 черный</model>
-			<brand>IKEA</brand>
-			<price>3034</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="107740714">
-			<model>IKEA набор полотенец DIMFORSEN 405.128.81 30x30 см 4 шт, хлопок, вискоза</model>
-			<brand>IKEA</brand>
-			<price>3317</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="100108110">
-			<model>Наволочка IKEA Айна 65x65 лен, 1 шт</model>
-			<brand>IKEA</brand>
-			<price>5999</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="103046739">
-			<model>IKEA рулонодержатель ГУЛЬТАРП 604.628.42 1 шт, нержавеющая сталь</model>
-			<brand>IKEA</brand>
-			<price>4388</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="100066044">
-			<model>Портьеры IKEA 145x300 см 2 шт, полиэстер, желтый</model>
-			<brand>IKEA</brand>
-			<price>31798</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="101536138">
-			<model>IKEA мешок кондитерский Гарнитюрен 50485561 1 шт</model>
-			<brand>IKEA</brand>
-			<price>3288</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="120600168">
-			<model>IKEA коврик ALSTERN 60x40 см, хлопок</model>
-			<brand>IKEA</brand>
-			<price>7357</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="101502481">
-			<model>Складной зонт IKEA механика черный</model>
-			<brand>IKEA</brand>
-			<price>7939</price>
 			<availabilities>
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
@@ -715,6 +1155,22 @@
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
 		</offer>
+		<offer sku="100114970">
+			<model>Настольная лампа IKEA Арёд 10389137 E27, 13 Вт, металл, алюминий</model>
+			<brand>IKEA</brand>
+			<price>46419</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="100150989">
+			<model>Полка IKEA Лакк 00430590, 30х26x5 см, черный</model>
+			<brand>IKEA</brand>
+			<price>8799</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
 		<offer sku="114206099">
 			<model>Карниз IKEA круглый двухрядный черный 210 см</model>
 			<brand>IKEA</brand>
@@ -723,10 +1179,26 @@
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
 		</offer>
-		<offer sku="105331949">
-			<model>Набор стаканов IKEA 300 мл, стекло, 4 шт</model>
+		<offer sku="101536138">
+			<model>IKEA мешок кондитерский Гарнитюрен 50485561 1 шт</model>
 			<brand>IKEA</brand>
-			<price>6025</price>
+			<price>3288</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="108931335">
+			<model>IKEA коврик для ванной ТОФТБУ, бежевый, микрофибра, 40х60см</model>
+			<brand>IKEA</brand>
+			<price>7096</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="120600168">
+			<model>IKEA коврик ALSTERN 60x40 см, хлопок</model>
+			<brand>IKEA</brand>
+			<price>7357</price>
 			<availabilities>
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
@@ -755,690 +1227,50 @@
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
 		</offer>
-		<offer sku="100757693">
-			<model>Сковорода IKEA Хемлагад 24 см с антипригарным покрытием, алюминий</model>
-			<brand>IKEA</brand>
-			<price>16199</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="100956758">
-			<model>IKEA Фейка Папоротник 80468452</model>
-			<brand>IKEA</brand>
-			<price>10019</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="106836885">
-			<model>Подставка IKEA дерево</model>
-			<brand>IKEA</brand>
-			<price>2988</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="108149818">
-			<model>IKEA таз PEPPRIG 90499523 4 л</model>
-			<brand>IKEA</brand>
-			<price>4387</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="100548324">
-			<model>IKEA ФЕЙКА Папоротник 90433947</model>
-			<brand>IKEA</brand>
-			<price>4289</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="100988264">
-			<model>IKEA сервировочный коврик Группера 204.158.95 33x33 см, хлопок</model>
-			<brand>IKEA</brand>
-			<price>6999</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="100434824">
-			<model>IKEA коробка универсальная 11x11x19 см, текстиль</model>
-			<brand>IKEA</brand>
-			<price>8605</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="106291131">
-			<model>Крышка IKEA 21 см, пластик</model>
-			<brand>IKEA</brand>
-			<price>5350</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="101392397">
-			<model>Простыня IKEA DVALA-1 180x200, хлопок</model>
-			<brand>IKEA</brand>
-			<price>12418</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="100123483">
-			<model>Набор столовых приборов IKEA 24 шт, серебристый Фернуфт 60378004</model>
-			<brand>IKEA</brand>
-			<price>14893</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="109118616">
-			<model>IKEA запасной блок для роллера 301.411.26 белый</model>
-			<brand>IKEA</brand>
-			<price>4899</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="101045870">
-			<model>Сотейник IKEA Хемлагад 26 см с антипригарным покрытием, алюминий</model>
-			<brand>IKEA</brand>
-			<price>24998</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="100532482">
-			<model>Портьеры IKEA 145x300 см 2 шт, полиэстер, белый</model>
-			<brand>IKEA</brand>
-			<price>17778</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="117311606">
-			<model>Термокувшин IKEA Таггега 905.413.48 1.6 синий</model>
-			<brand>IKEA</brand>
-			<price>13998</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="110390284">
-			<model>IKEA корзина универсальная 25x25x18 см, полиэстер</model>
-			<brand>IKEA</brand>
-			<price>7314</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="107744954">
-			<model>Табурет IKEA 401788.88, 50x43x39 см, белый</model>
-			<brand>IKEA</brand>
-			<price>36999</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="129534651">
-			<model>IKEA саморез универсальный (4.5х40 мм), 175 шт.</model>
-			<brand>IKEA</brand>
-			<price>7899</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="108149814">
-			<model>IKEA полотенце 10512873 70x40 см 1 шт, хлопок, вискоза</model>
-			<brand>IKEA</brand>
-			<price>2986</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="100989726">
-			<model>IKEA Юллевад 80486470 черный</model>
-			<brand>IKEA</brand>
-			<price>1195</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="110291293">
-			<model>IKEA роза 47 см, 905.327.73</model>
-			<brand>IKEA</brand>
-			<price>8989</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="101423255">
-			<model>Набор бокалов IKEA 440 мл, стекло, 6 шт</model>
-			<brand>IKEA</brand>
-			<price>6927</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="108427802">
-			<model>IKEA подставка 102.586.69, дерево</model>
-			<brand>IKEA</brand>
-			<price>30731</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="110650007">
-			<model>IKEA букет цветов 16 см, 205.483.10</model>
-			<brand>IKEA</brand>
-			<price>4999</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="106582494">
-			<model>Карниз IKEA профильный однорядный белый 140 см</model>
-			<brand>IKEA</brand>
-			<price>21999</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="100933134">
-			<model>Плед IKEA Гульклинт 150х200 см, шерсть, красный</model>
-			<brand>IKEA</brand>
-			<price>50386</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="100807334">
-			<model>Наматрасник IKEA Луддрос 100807334, хлопок, полиэстер, белый</model>
-			<brand>IKEA</brand>
-			<price>3797</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="100449564">
-			<model>IKEA СМИККА 80409759 Лизиантус</model>
-			<brand>IKEA</brand>
-			<price>4293</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="107398878">
-			<model>Этажерка IKEA 702.438.73, металл, 26x48x77 см, белый</model>
-			<brand>IKEA</brand>
-			<price>29501</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="106257823">
-			<model>Сковорода IKEA  13 см , сталь</model>
-			<brand>IKEA</brand>
-			<price>16105</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="100872858">
-			<model>Крышка IKEA 57х39 см, пластик</model>
-			<brand>IKEA</brand>
-			<price>4199</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="100807486">
-			<model>Наматрасник IKEA Луддрос 20461646, хлопок, полиэстер, белый</model>
-			<brand>IKEA</brand>
-			<price>4897</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="100966256">
-			<model>IKEA Смикка Роза 40371744 красный</model>
-			<brand>IKEA</brand>
-			<price>2499</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="109618920">
-			<model>Обувница IKEA 52x18x39 см, полипропилен</model>
-			<brand>IKEA</brand>
-			<price>40499</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="100926853">
-			<model>Светильник потолочный IKEA E27 13 Вт белый</model>
-			<brand>IKEA</brand>
-			<price>36306</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="105197841">
-			<model>Ковер IKEA 70x100 см, безворсовый, Австрия</model>
-			<brand>IKEA</brand>
-			<price>8543</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="100466787">
-			<model>Молоток для отбивания мяса IKEA пластик, 1 шт</model>
-			<brand>IKEA</brand>
-			<price>7587</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="110744110">
-			<model>IKEA набор разделочных досок Базовая коллекция 301.934.84 3 шт, дерево, бамбук</model>
-			<brand>IKEA</brand>
-			<price>9999</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="108010158">
-			<model>IKEA миска 104.771.91 4 шт, керамика</model>
-			<brand>IKEA</brand>
-			<price>8498</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="102217708">
-			<model>Наволочка IKEA 50x50 синий, черный</model>
-			<brand>IKEA</brand>
-			<price>5156</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="100713890">
-			<model>IKEA прямоугольная Фискбу 903.789.98 13x18 см черный</model>
-			<brand>IKEA</brand>
-			<price>1527</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="100547355">
-			<model>Настольная лампа IKEA 40472917 E14, пластик, полистирол</model>
+		<offer sku="121087524">
+			<model>Простыня IKEA 80x200, хлопок</model>
 			<brand>IKEA</brand>
 			<price>8787</price>
 			<availabilities>
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
 		</offer>
-		<offer sku="100106388">
-			<model>Простыня IKEA 80x200, трикотаж</model>
+		<offer sku="101405926">
+			<model>IKEA Вивалла 704.128.61</model>
 			<brand>IKEA</brand>
-			<price>11002</price>
+			<price>15598</price>
 			<availabilities>
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
 		</offer>
-		<offer sku="108383573">
-			<model>IKEA пакет 005.255.31 для хранения продуктов</model>
+		<offer sku="103046986">
+			<model>IKEA рейлинг ГУЛЬТАРП 504.444.34 1 шт, нержавеющая сталь</model>
 			<brand>IKEA</brand>
-			<price>2706</price>
+			<price>8998</price>
 			<availabilities>
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
 		</offer>
-		<offer sku="100178206">
-			<model>IKEA сумка для белья 60x36x36 см, текстиль</model>
+		<offer sku="114293342">
+			<model>Комплект IKEA БРУКСВАРА 1.5-спальный полиэстер, 1 наволочка: 50x80 см</model>
 			<brand>IKEA</brand>
-			<price>8418</price>
+			<price>17199</price>
 			<availabilities>
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
 		</offer>
-		<offer sku="102015233">
-			<model>IKEA набор крючков Гультарп 504.444.48 5 шт, нержавеющая сталь</model>
+		<offer sku="111331720">
+			<model>IKEA кольцо 904.801.61, нержавеющая сталь</model>
 			<brand>IKEA</brand>
-			<price>4998</price>
+			<price>7945</price>
 			<availabilities>
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
 		</offer>
-		<offer sku="101863181">
-			<model>IKEA Бактрадитион 204.801.69 белый-бирюзовый</model>
+		<offer sku="100934815">
+			<model>IKEA МОЛА 30477618 зеленый</model>
 			<brand>IKEA</brand>
-			<price>8985</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="106342574">
-			<model>Ароматическая свеча IKEA Эмлик Ваниль 105.021.62 3 см, 30 шт</model>
-			<brand>IKEA</brand>
-			<price>3964</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="100173192">
-			<model>IKEA подушка на стул 36x32 см, Куддарна 60411070</model>
-			<brand>IKEA</brand>
-			<price>4013</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="105331855">
-			<model>Подушка IKEA 50x60 см, полиэстерная вата</model>
-			<brand>IKEA</brand>
-			<price>11999</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="119489317">
-			<model>Журнальный столик IKEA приставной РИАН, 50x30x50 см, черный</model>
-			<brand>IKEA</brand>
-			<price>40999</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="100104841">
-			<model>IKEA ваза 14 см Тидваттен, стекло</model>
-			<brand>IKEA</brand>
-			<price>3289</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="108052854">
-			<model>Ароматическая свеча IKEA ЛУГНАРЕ Жасмин 905.021.58 3 см, 30 шт</model>
-			<brand>IKEA</brand>
-			<price>4159</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="100931695">
-			<model>IKEA Брогрунд 50349762 серебристый</model>
-			<brand>IKEA</brand>
-			<price>5487</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="100115665">
-			<model>Стеллаж напольный IKEA Бримнэс 103.833.38, 60x35x190 см, черный</model>
-			<brand>IKEA</brand>
-			<price>153107</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="100114970">
-			<model>Настольная лампа IKEA Арёд 10389137 E27, 13 Вт, металл, алюминий</model>
-			<brand>IKEA</brand>
-			<price>46419</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="103965175">
-			<model>IKEA комплект белья для девочки, для мальчика, хлопок, RÖRANDE 604.401.76</model>
-			<brand>IKEA</brand>
-			<price>19499</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="100935883">
-			<model>Наволочка IKEA Гурли 50x50 серый</model>
-			<brand>IKEA</brand>
-			<price>6399</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="102966972">
-			<model>Ручка-раковина IKEA БЕГРИПА 30446127, металл, 130 мм, бирюзовый</model>
-			<brand>IKEA</brand>
-			<price>4143</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="115997783">
-			<model>IKEA РАМСТА 203.728.48 4.5 В</model>
-			<brand>IKEA</brand>
-			<price>3499</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="101616422">
-			<model>Наволочка IKEA Аскбрунмал 50x50 полиэстер, 1 шт</model>
-			<brand>IKEA</brand>
-			<price>12917</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="100790995">
-			<model>Этажерка IKEA Хиллис 90428328, металл, 60x27x74 см</model>
-			<brand>IKEA</brand>
-			<price>21998</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="108467670">
-			<model>Плед IKEA 120х160 см, полиэстер, серый</model>
-			<brand>IKEA</brand>
-			<price>9887</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="108430932">
-			<model>IKEA 104.878.16, 70x34x86 см, белый</model>
-			<brand>IKEA</brand>
-			<price>47998</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="105908543">
-			<model>IKEA набор контейнеров 505.079.59 3 шт, полипропилен</model>
-			<brand>IKEA</brand>
-			<price>9164</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="109269829">
-			<model>Декоративный коврик IKEA 55x85 см, длинный ворс, Швеция</model>
-			<brand>IKEA</brand>
-			<price>16882</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="105192168">
-			<model>IKEA набор полотенец Вагшон 103.509.98 30x30 см 4 шт, хлопок</model>
-			<brand>IKEA</brand>
-			<price>4499</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="109253794">
-			<model>Ковер IKEA 55x85 см, короткий ворс, Швеция</model>
-			<brand>IKEA</brand>
-			<price>14999</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="102967218">
-			<model>Ручка-раковина IKEA БЕГРИПА 50446131, металл, 130 мм, красный</model>
-			<brand>IKEA</brand>
-			<price>4199</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="118830073">
-			<model>ТВ-тумба напольная IKEA 504.988.94, 120x36x35 см, белый</model>
-			<brand>IKEA</brand>
-			<price>69899</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="102032721">
-			<model>Этажерка IKEA Йонаксель 79297442, металл, 51x25x73 см</model>
-			<brand>IKEA</brand>
-			<price>59094</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="104692381">
-			<model>IKEA салфетница Ликсидиг 803.449.56, металл</model>
-			<brand>IKEA</brand>
-			<price>3446</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="100516558">
-			<model>Простыня IKEA DVALA-1 90x200, хлопок</model>
-			<brand>IKEA</brand>
-			<price>9238</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="109447649">
-			<model>Ароматическая свеча IKEA ВИНТЕРФИНТ Корица и сахар 205.257.47 9 см, 1 шт</model>
-			<brand>IKEA</brand>
-			<price>4998</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="117311601">
-			<model>Термокувшин IKEA Таггега 305.413.51 1.6 белый</model>
-			<brand>IKEA</brand>
-			<price>13997</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="101016713">
-			<model>IKEA Кноппэнг 404.273.07 50x70 см белый</model>
-			<brand>IKEA</brand>
-			<price>15141</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="106199597">
-			<model>IKEA миска 104.217.93 2 шт, пластик</model>
-			<brand>IKEA</brand>
-			<price>7329</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="101996163">
-			<model>IKEA ваза 21 см Чилифрукт, стекло</model>
-			<brand>IKEA</brand>
-			<price>10788</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="101378046">
-			<model>IKEA KVASP 203.981.98 розовый</model>
-			<brand>IKEA</brand>
-			<price>3431</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="108571774">
-			<model>IKEA для теста 104.852.71, лезвие: нержавеющая сталь 1 шт</model>
-			<brand>IKEA</brand>
-			<price>4498</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="108222447">
-			<model>IKEA 2112 белый</model>
-			<brand>IKEA</brand>
-			<price>20698</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="108764936">
-			<model>Одеяло IKEA Сильвертопп 404.242.24 150x200 летнее</model>
-			<brand>IKEA</brand>
-			<price>8978</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="106647294">
-			<model>IKEA держатель Kalkgrund 002.914.76 1 шт, нержавеющая сталь</model>
-			<brand>IKEA</brand>
-			<price>9796</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="118978524">
-			<model>IKEA гвоздика 30 см, 503.356.61</model>
-			<brand>IKEA</brand>
-			<price>1199</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="108556531">
-			<model>Тюль IKEA 145x300 см 2 шт, полиэстер, розовый</model>
-			<brand>IKEA</brand>
-			<price>15788</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="102562611">
-			<model>Stockholm воронка Чосигт 80372666, пластик</model>
-			<brand>Stockholm</brand>
-			<price>1397</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="110280525">
-			<model>Ковер IKEA 60x90 см, короткий ворс, Швеция</model>
-			<brand>IKEA</brand>
-			<price>12353</price>
+			<price>1399</price>
 			<availabilities>
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
@@ -1451,106 +1283,18 @@
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
 		</offer>
-		<offer sku="100106771">
-			<model>Подушка IKEA 40x65 см, полиэстер</model>
+		<offer sku="100757693">
+			<model>Сковорода IKEA Хемлагад 24 см с антипригарным покрытием, алюминий</model>
 			<brand>IKEA</brand>
-			<price>2999</price>
+			<price>16199</price>
 			<availabilities>
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
 		</offer>
-		<offer sku="101394513">
-			<model>IKEA накидка для стула BRAMON 20484662 бежевый 34х34 см</model>
+		<offer sku="103945011">
+			<model>IKEA насадка-дозатор 50432148 белый, серый 1 шт</model>
 			<brand>IKEA</brand>
-			<price>1967</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="102217715">
-			<model>Наволочка IKEA 50x50 серый</model>
-			<brand>IKEA</brand>
-			<price>5156</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="113312330">
-			<model>Портьеры IKEA 145x250 см 2 шт, полиэстер, зеленый</model>
-			<brand>IKEA</brand>
-			<price>41999</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="118472957">
-			<model>Ароматическая свеча IKEA 905.558.54 3 см, 30 шт</model>
-			<brand>IKEA</brand>
-			<price>4199</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="103046734">
-			<model>IKEA рулонодержатель ГУЛЬТАРП 204.628.39 1 шт, нержавеющая сталь</model>
-			<brand>IKEA</brand>
-			<price>4941</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="100522252">
-			<model>Простыня IKEA 80x130, хлопок</model>
-			<brand>IKEA</brand>
-			<price>6963</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="105331900">
-			<model>Подушка IKEA 50x60 см, полиэстер</model>
-			<brand>IKEA</brand>
-			<price>2957</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="101016588">
-			<model>IKEA Кноппэнг 40427270 13х18 белый</model>
-			<brand>IKEA</brand>
-			<price>2737</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="101564213">
-			<model>Ложка IKEA 4 шт, серебристый Фернуфт 604.284.81</model>
-			<brand>IKEA</brand>
-			<price>4989</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="108309683">
-			<model>IKEA банка 905.308.25. KORKEN, стекло</model>
-			<brand>IKEA</brand>
-			<price>4998</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="100114440">
-			<model>Часы электронные IKEA Клоккис 20335238, пластик</model>
-			<brand>IKEA</brand>
-			<price>3198</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="100342351">
-			<model>IKEA смешанный набор КВЭЛЛЬСВАРД 40427996 алюминий 3 в 1</model>
-			<brand>IKEA</brand>
-			<price>38999</price>
+			<price>3280</price>
 			<availabilities>
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
@@ -1563,10 +1307,18 @@
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
 		</offer>
-		<offer sku="100945813">
-			<model>IKEA TOTEBO 70469664 розовый</model>
+		<offer sku="100928096">
+			<model>IKEA подставка Сатсумас 20371976, дерево, металл</model>
 			<brand>IKEA</brand>
-			<price>3022</price>
+			<price>29988</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="100548199">
+			<model>IKEA ФЕЙКА Бамбук 20433941</model>
+			<brand>IKEA</brand>
+			<price>3979</price>
 			<availabilities>
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
@@ -1611,34 +1363,282 @@
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
 		</offer>
-		<offer sku="100734883">
-			<model>Часы механические IKEA SNIFFA 80473104, пластик</model>
+		<offer sku="105331949">
+			<model>Набор стаканов IKEA 300 мл, стекло, 4 шт</model>
 			<brand>IKEA</brand>
-			<price>3899</price>
+			<price>6025</price>
 			<availabilities>
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
 		</offer>
-		<offer sku="112903079">
-			<model>Портьеры IKEA 145x250 см 2 шт, полиэстер, серый</model>
+		<offer sku="100445736">
+			<model>IKEA чабрец 20x22 см, ФЕЙКА 10375178</model>
 			<brand>IKEA</brand>
-			<price>43999</price>
+			<price>3999</price>
 			<availabilities>
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
 		</offer>
-		<offer sku="129855723">
-			<model>IKEA стакан EKOLN 1 шт, керамика</model>
+		<offer sku="108556536">
+			<model>Комплект IKEA Витпирола 1.5-спальный хлопок, 1 наволочка: 50x60 см</model>
 			<brand>IKEA</brand>
-			<price>6499</price>
+			<price>14143</price>
 			<availabilities>
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
 		</offer>
-		<offer sku="104684342">
-			<model>Простыня IKEA 140x200, хлопок</model>
+		<offer sku="108309683">
+			<model>IKEA банка 905.308.25. KORKEN, стекло</model>
 			<brand>IKEA</brand>
-			<price>14998</price>
+			<price>4998</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="108383560">
+			<model>Держатель IKEA пластик, сталь</model>
+			<brand>IKEA</brand>
+			<price>9723</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="100733115">
+			<model>Портьеры IKEA 210x300 см 1 шт, полиэстер, голубой</model>
+			<brand>IKEA</brand>
+			<price>16869</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="100106543">
+			<model>Плед IKEA Ингрун 130х170 см, хлопок, акрил, серый</model>
+			<brand>IKEA</brand>
+			<price>13999</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="109618920">
+			<model>Обувница IKEA 52x18x39 см, полипропилен</model>
+			<brand>IKEA</brand>
+			<price>40499</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="101381945">
+			<model>Стул трансформер IKEA Гунде 90360880, 78x41x45 см, белый</model>
+			<brand>IKEA</brand>
+			<price>22998</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="100926853">
+			<model>Светильник потолочный IKEA E27 13 Вт белый</model>
+			<brand>IKEA</brand>
+			<price>36306</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="105994535">
+			<model>Комплект IKEA 2-спальный хлопок, : 50x60 см</model>
+			<brand>IKEA</brand>
+			<price>32673</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="103046969">
+			<model>IKEA рулонодержатель ГУЛЬТАРП 204.444.40 1 шт, нержавеющая сталь</model>
+			<brand>IKEA</brand>
+			<price>6616</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="112809913">
+			<model>Кружка IKEA «ГЛАДЕЛИГ», 370 мл, керамика, 1 шт.</model>
+			<brand>IKEA</brand>
+			<price>4499</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="106647305">
+			<model>IKEA держатель Лиллашён 004.566.41 1 шт, металл, пластик</model>
+			<brand>IKEA</brand>
+			<price>8762</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="100956758">
+			<model>IKEA Фейка Папоротник 80468452</model>
+			<brand>IKEA</brand>
+			<price>10019</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="100988264">
+			<model>IKEA сервировочный коврик Группера 204.158.95 33x33 см, хлопок</model>
+			<brand>IKEA</brand>
+			<price>6999</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="103046739">
+			<model>IKEA рулонодержатель ГУЛЬТАРП 604.628.42 1 шт, нержавеющая сталь</model>
+			<brand>IKEA</brand>
+			<price>4388</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="102015204">
+			<model>Карниз IKEA профильный однорядный белый 180 см</model>
+			<brand>IKEA</brand>
+			<price>7571</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="108149814">
+			<model>IKEA полотенце 10512873 70x40 см 1 шт, хлопок, вискоза</model>
+			<brand>IKEA</brand>
+			<price>2986</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="100989726">
+			<model>IKEA Юллевад 80486470 черный</model>
+			<brand>IKEA</brand>
+			<price>1195</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="110291293">
+			<model>IKEA роза 47 см, 905.327.73</model>
+			<brand>IKEA</brand>
+			<price>8989</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="101423255">
+			<model>Набор бокалов IKEA 440 мл, стекло, 6 шт</model>
+			<brand>IKEA</brand>
+			<price>6927</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="106291131">
+			<model>Крышка IKEA 21 см, пластик</model>
+			<brand>IKEA</brand>
+			<price>5350</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="107924868">
+			<model>Полка IKEA Лакк, 110х26x5 см, черный</model>
+			<brand>IKEA</brand>
+			<price>29899</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="105310881">
+			<model>Ковер IKEA 60x90 см, короткий ворс, Швеция</model>
+			<brand>IKEA</brand>
+			<price>11525</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="100516558">
+			<model>Простыня IKEA DVALA-1 90x200, хлопок</model>
+			<brand>IKEA</brand>
+			<price>9238</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="109447649">
+			<model>Ароматическая свеча IKEA ВИНТЕРФИНТ Корица и сахар 205.257.47 9 см, 1 шт</model>
+			<brand>IKEA</brand>
+			<price>4998</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="117311601">
+			<model>Термокувшин IKEA Таггега 305.413.51 1.6 белый</model>
+			<brand>IKEA</brand>
+			<price>13997</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="101045870">
+			<model>Сотейник IKEA Хемлагад 26 см с антипригарным покрытием, алюминий</model>
+			<brand>IKEA</brand>
+			<price>24998</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="100790995">
+			<model>Этажерка IKEA Хиллис 90428328, металл, 60x27x74 см</model>
+			<brand>IKEA</brand>
+			<price>21998</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="108467670">
+			<model>Плед IKEA 120х160 см, полиэстер, серый</model>
+			<brand>IKEA</brand>
+			<price>9887</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="101616422">
+			<model>Наволочка IKEA Аскбрунмал 50x50 полиэстер, 1 шт</model>
+			<brand>IKEA</brand>
+			<price>12917</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="100532482">
+			<model>Портьеры IKEA 145x300 см 2 шт, полиэстер, белый</model>
+			<brand>IKEA</brand>
+			<price>17778</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="117311606">
+			<model>Термокувшин IKEA Таггега 905.413.48 1.6 синий</model>
+			<brand>IKEA</brand>
+			<price>13998</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="105332182">
+			<model>Тюль IKEA 145x300 см 2 шт, полиэстер, белый</model>
+			<brand>IKEA</brand>
+			<price>18192</price>
 			<availabilities>
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
@@ -1651,34 +1651,258 @@
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
 		</offer>
-		<offer sku="101269023">
-			<model>IKEA Неребю 40465926 береза</model>
+		<offer sku="108427802">
+			<model>IKEA подставка 102.586.69, дерево</model>
 			<brand>IKEA</brand>
-			<price>7198</price>
+			<price>30731</price>
 			<availabilities>
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
 		</offer>
-		<offer sku="115798752">
-			<model>IKEA 603.501.230 белый</model>
+		<offer sku="100807486">
+			<model>Наматрасник IKEA Луддрос 20461646, хлопок, полиэстер, белый</model>
 			<brand>IKEA</brand>
-			<price>8989</price>
+			<price>4897</price>
 			<availabilities>
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
 		</offer>
-		<offer sku="142673666">
-			<model>Полка VX1092672 1 шт, пластик</model>
-			<brand>Без бренда</brand>
-			<price>4288</price>
+		<offer sku="110287208">
+			<model>Полка IKEA Mosslanda 404.978.14, 115х12x8 см, белый</model>
+			<brand>IKEA</brand>
+			<price>13980</price>
 			<availabilities>
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
 		</offer>
-		<offer sku="101381945">
-			<model>Стул трансформер IKEA Гунде 90360880, 78x41x45 см, белый</model>
+		<offer sku="100966256">
+			<model>IKEA Смикка Роза 40371744 красный</model>
 			<brand>IKEA</brand>
-			<price>22998</price>
+			<price>2499</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="103965175">
+			<model>IKEA комплект белья для девочки, для мальчика, хлопок, RÖRANDE 604.401.76</model>
+			<brand>IKEA</brand>
+			<price>19499</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="100935883">
+			<model>Наволочка IKEA Гурли 50x50 серый</model>
+			<brand>IKEA</brand>
+			<price>6399</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="115232236">
+			<model>IKEA набор полотенец 605.128.80 30x30 см 4 шт, хлопок, вискоза</model>
+			<brand>IKEA</brand>
+			<price>4299</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="101602897">
+			<model>Чехол для верхней одежды IKEA, полиэтиленвинилацетат</model>
+			<brand>IKEA</brand>
+			<price>12347</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="102966972">
+			<model>Ручка-раковина IKEA БЕГРИПА 30446127, металл, 130 мм, бирюзовый</model>
+			<brand>IKEA</brand>
+			<price>4143</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="115997783">
+			<model>IKEA РАМСТА 203.728.48 4.5 В</model>
+			<brand>IKEA</brand>
+			<price>3499</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="109269829">
+			<model>Декоративный коврик IKEA 55x85 см, длинный ворс, Швеция</model>
+			<brand>IKEA</brand>
+			<price>16882</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="109253794">
+			<model>Ковер IKEA 55x85 см, короткий ворс, Швеция</model>
+			<brand>IKEA</brand>
+			<price>14999</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="102967218">
+			<model>Ручка-раковина IKEA БЕГРИПА 50446131, металл, 130 мм, красный</model>
+			<brand>IKEA</brand>
+			<price>4199</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="118830073">
+			<model>ТВ-тумба напольная IKEA 504.988.94, 120x36x35 см, белый</model>
+			<brand>IKEA</brand>
+			<price>69899</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="102217715">
+			<model>Наволочка IKEA 50x50 серый</model>
+			<brand>IKEA</brand>
+			<price>5156</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="106582494">
+			<model>Карниз IKEA профильный однорядный белый 140 см</model>
+			<brand>IKEA</brand>
+			<price>21999</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="102032721">
+			<model>Этажерка IKEA Йонаксель 79297442, металл, 51x25x73 см</model>
+			<brand>IKEA</brand>
+			<price>59094</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="110650007">
+			<model>IKEA букет цветов 16 см, 205.483.10</model>
+			<brand>IKEA</brand>
+			<price>4999</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="100933134">
+			<model>Плед IKEA Гульклинт 150х200 см, шерсть, красный</model>
+			<brand>IKEA</brand>
+			<price>50386</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="100449564">
+			<model>IKEA СМИККА 80409759 Лизиантус</model>
+			<brand>IKEA</brand>
+			<price>4293</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="100807334">
+			<model>Наматрасник IKEA Луддрос 100807334, хлопок, полиэстер, белый</model>
+			<brand>IKEA</brand>
+			<price>3797</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="102880395">
+			<model>Обеденная тарелка IKEA 16 см, 1 шт, керамика</model>
+			<brand>IKEA</brand>
+			<price>8017</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="100375774">
+			<model>Ковер IKEA 60x90 см, короткий ворс, Китай</model>
+			<brand>IKEA</brand>
+			<price>11613</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="110287211">
+			<model>Полка IKEA Ramshult 093.254.72, 120х20x20 см, черный</model>
+			<brand>IKEA</brand>
+			<price>37346</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="101504096">
+			<model>Портьеры IKEA 145x300 см 2 шт, полиэстер, зеленый</model>
+			<brand>IKEA</brand>
+			<price>33988</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="100955718">
+			<model>IKEA смешанный набор Хемлагад 20462863 алюминий 6 в 1</model>
+			<brand>IKEA</brand>
+			<price>64999</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="107085682">
+			<model>Комплект IKEA Офелия 2-спальный хлопок, 2 наволочки: 50x60 см</model>
+			<brand>IKEA</brand>
+			<price>37747</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="101616045">
+			<model>IKEA подставка Ванильстонг 804.263.44, дерево, металл</model>
+			<brand>IKEA</brand>
+			<price>30588</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="107398878">
+			<model>Этажерка IKEA 702.438.73, металл, 26x48x77 см, белый</model>
+			<brand>IKEA</brand>
+			<price>29501</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="105770413">
+			<model>IKEA подставка 904.922.58, металл</model>
+			<brand>IKEA</brand>
+			<price>21999</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="106257823">
+			<model>Сковорода IKEA  13 см , сталь</model>
+			<brand>IKEA</brand>
+			<price>16105</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="119489327">
+			<model>Журнальный столик IKEA приставной РИАН, 50x30x50 см, белый</model>
+			<brand>IKEA</brand>
+			<price>40999</price>
 			<availabilities>
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
@@ -1723,250 +1947,10 @@
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
 		</offer>
-		<offer sku="108383567">
-			<model>IKEA пакет 405.255.34 для замораживания, для хранения продуктов</model>
+		<offer sku="105197841">
+			<model>Ковер IKEA 70x100 см, безворсовый, Австрия</model>
 			<brand>IKEA</brand>
-			<price>3648</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="100547559">
-			<model>IKEA роза 20 см, ФЕЙКА 20395294</model>
-			<brand>IKEA</brand>
-			<price>2999</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="120874281">
-			<model>Пуф IKEA Strandmon, 60x40x44 см, желтый</model>
-			<brand>IKEA</brand>
-			<price>80502</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="100934815">
-			<model>IKEA МОЛА 30477618 зеленый</model>
-			<brand>IKEA</brand>
-			<price>1399</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="110287208">
-			<model>Полка IKEA Mosslanda 404.978.14, 115х12x8 см, белый</model>
-			<brand>IKEA</brand>
-			<price>13980</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="102880395">
-			<model>Обеденная тарелка IKEA 16 см, 1 шт, керамика</model>
-			<brand>IKEA</brand>
-			<price>8017</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="118909455">
-			<model>Простыня IKEA 150x200, полиэстер</model>
-			<brand>IKEA</brand>
-			<price>7799</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="100180069">
-			<model>Бра настенный IKEA Е14, серебристый</model>
-			<brand>IKEA</brand>
-			<price>37884</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="103047511">
-			<model>IKEA Вешалка настенная дерево, 57x5 см, HÖVOLM ХЁВОЛЬМ 705.000.61</model>
-			<brand>IKEA</brand>
-			<price>21089</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="114319919">
-			<model>Комплект IKEA Бруксвара 2-спальный полиэстер, 2 наволочки: 50x80 см</model>
-			<brand>IKEA</brand>
-			<price>18399</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="102498082">
-			<model>IKEA набор посуды АННОНС 90372661 сталь, стекло 3 в 1</model>
-			<brand>IKEA</brand>
-			<price>24698</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="101611426">
-			<model>IKEA кольца для шторы Сирлиг 503.707.15 белый</model>
-			<brand>IKEA</brand>
-			<price>2888</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="109284624">
-			<model>IKEA органайзер для обуви серый, 1 шт</model>
-			<brand>IKEA</brand>
-			<price>2497</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="114310586">
-			<model>Комплект IKEA 1.5-спальный хлопок, : 50x80 см</model>
-			<brand>IKEA</brand>
-			<price>18999</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="100375774">
-			<model>Ковер IKEA 60x90 см, короткий ворс, Китай</model>
-			<brand>IKEA</brand>
-			<price>11613</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="101504096">
-			<model>Портьеры IKEA 145x300 см 2 шт, полиэстер, зеленый</model>
-			<brand>IKEA</brand>
-			<price>33988</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="100955718">
-			<model>IKEA смешанный набор Хемлагад 20462863 алюминий 6 в 1</model>
-			<brand>IKEA</brand>
-			<price>64999</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="107085682">
-			<model>Комплект IKEA Офелия 2-спальный хлопок, 2 наволочки: 50x60 см</model>
-			<brand>IKEA</brand>
-			<price>37747</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="101616045">
-			<model>IKEA подставка Ванильстонг 804.263.44, дерево, металл</model>
-			<brand>IKEA</brand>
-			<price>30588</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="105770413">
-			<model>IKEA подставка 904.922.58, металл</model>
-			<brand>IKEA</brand>
-			<price>21999</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="119489327">
-			<model>Журнальный столик IKEA приставной РИАН, 50x30x50 см, белый</model>
-			<brand>IKEA</brand>
-			<price>40999</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="107924868">
-			<model>Полка IKEA Лакк, 110х26x5 см, черный</model>
-			<brand>IKEA</brand>
-			<price>29899</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="101110269">
-			<model>Дозатор для жидкого мыла IKEA Экольн 10493006</model>
-			<brand>IKEA</brand>
-			<price>7907</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="100527702">
-			<model>Простыня IKEA 80x130, хлопок</model>
-			<brand>IKEA</brand>
-			<price>5883</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="112551945">
-			<model>Складной зонт IKEA механика черный, бежевый</model>
-			<brand>IKEA</brand>
-			<price>7598</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="108931335">
-			<model>IKEA коврик для ванной ТОФТБУ, бежевый, микрофибра, 40х60см</model>
-			<brand>IKEA</brand>
-			<price>7096</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="105332182">
-			<model>Тюль IKEA 145x300 см 2 шт, полиэстер, белый</model>
-			<brand>IKEA</brand>
-			<price>18192</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="100106543">
-			<model>Плед IKEA Ингрун 130х170 см, хлопок, акрил, серый</model>
-			<brand>IKEA</brand>
-			<price>13999</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="121087524">
-			<model>Простыня IKEA 80x200, хлопок</model>
-			<brand>IKEA</brand>
-			<price>8787</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="101405926">
-			<model>IKEA Вивалла 704.128.61</model>
-			<brand>IKEA</brand>
-			<price>15598</price>
-			<availabilities>
-				<availability available="yes" storeId="PP1" preorder="0"/>
-			</availabilities>
-		</offer>
-		<offer sku="120858095">
-			<model>IKEA коврик ALSTERN 60x40 см, хлопок</model>
-			<brand>IKEA</brand>
-			<price>7357</price>
+			<price>8543</price>
 			<availabilities>
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
@@ -1975,6 +1959,22 @@
 			<model>Этажерка IKEA Омар 204.830.78, металл, 60x25x40 см</model>
 			<brand>IKEA</brand>
 			<price>34980</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="100106451">
+			<model>Плед IKEA Ингрун 130х170 см, хлопок, акрил, бежевый</model>
+			<brand>IKEA</brand>
+			<price>14999</price>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preorder="0"/>
+			</availabilities>
+		</offer>
+		<offer sku="108226771">
+			<model>IKEA 002.110.88, коричнево-чёрный</model>
+			<brand>IKEA</brand>
+			<price>49757</price>
 			<availabilities>
 				<availability available="yes" storeId="PP1" preorder="0"/>
 			</availabilities>
