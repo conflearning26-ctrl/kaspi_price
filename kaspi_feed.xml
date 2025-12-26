@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd" date="2025-12-26 10:12">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd" date="2025-12-26 12:31">
 	<company>682001</company>
 	<merchantid>682001</merchantid>
 	<offers>
@@ -23,6 +23,26 @@
 				<cityprice cityId="631010000">22999</cityprice>
 			</cityprices>
 		</offer>
+		<offer sku="403.536.17">
+			<model>IKEA полотенце 403.536.17 70x40 см 1 шт, хлопок</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">2186</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="304.508.12">
+			<model>IKEA Вескен 30450812 черный</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">14285</cityprice>
+			</cityprices>
+		</offer>
 		<offer sku="104.878.16">
 			<model>IKEA 104.878.16, 70x34x86 см, белый</model>
 			<brand>IKEA</brand>
@@ -43,14 +63,14 @@
 				<cityprice cityId="631010000">5155</cityprice>
 			</cityprices>
 		</offer>
-		<offer sku="105.757.09">
-			<model>Простыня IKEA 90x200, хлопок</model>
+		<offer sku="305.566.96">
+			<model>IKEA саморез универсальный (4.5х40 мм), 175 шт.</model>
 			<brand>IKEA</brand>
 			<availabilities>
 				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
 			</availabilities>
 			<cityprices>
-				<cityprice cityId="631010000">11780</cityprice>
+				<cityprice cityId="631010000">7898</cityprice>
 			</cityprices>
 		</offer>
 		<offer sku="905.021.58">
@@ -61,6 +81,16 @@
 			</availabilities>
 			<cityprices>
 				<cityprice cityId="631010000">4158</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="104.265.59">
+			<model>Наволочка IKEA Айна 65x65 лен, 1 шт</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">5998</cityprice>
 			</cityprices>
 		</offer>
 		<offer sku="003.700.77">
@@ -100,7 +130,27 @@
 				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
 			</availabilities>
 			<cityprices>
-				<cityprice cityId="631010000">8844</cityprice>
+				<cityprice cityId="631010000">8842</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="603.501.230">
+			<model>IKEA ночник вилка тип А 603.501.230, металл, пластик</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">8988</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="705.000.61">
+			<model>IKEA Вешалка настенная дерево, 57x5 см, HÖVOLM ХЁВОЛЬМ 705.000.61</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">21088</cityprice>
 			</cityprices>
 		</offer>
 		<offer sku="203.695.58">
@@ -133,6 +183,26 @@
 				<cityprice cityId="631010000">4012</cityprice>
 			</cityprices>
 		</offer>
+		<offer sku="004.305.90">
+			<model>Полка IKEA Лакк 00430590, 30х26x5 см, черный</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">8798</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="401.036.33">
+			<model>Полка IKEA Лакк, 110х26x5 см, черный</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">29898</cityprice>
+			</cityprices>
+		</offer>
 		<offer sku="505.676.51">
 			<model>IKEA губка PEPPRIG 3 шт, полиуретан, полиэстер</model>
 			<brand>IKEA</brand>
@@ -143,16 +213,6 @@
 				<cityprice cityId="631010000">1498</cityprice>
 			</cityprices>
 		</offer>
-		<offer sku="104.930.06">
-			<model>Дозатор для жидкого мыла IKEA Экольн 10493006</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">7906</cityprice>
-			</cityprices>
-		</offer>
 		<offer sku="504.217.91">
 			<model>IKEA миска 104.217.93 2 шт, пластик</model>
 			<brand>IKEA</brand>
@@ -161,6 +221,16 @@
 			</availabilities>
 			<cityprices>
 				<cityprice cityId="631010000">7299</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="104.930.06">
+			<model>Дозатор для жидкого мыла IKEA Экольн 10493006</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">7906</cityprice>
 			</cityprices>
 		</offer>
 		<offer sku="704.628.27">
@@ -180,7 +250,7 @@
 				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
 			</availabilities>
 			<cityprices>
-				<cityprice cityId="631010000">6968</cityprice>
+				<cityprice cityId="631010000">6966</cityprice>
 			</cityprices>
 		</offer>
 		<offer sku="792.974.42">
@@ -191,6 +261,156 @@
 			</availabilities>
 			<cityprices>
 				<cityprice cityId="631010000">59093</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="304.287.03">
+			<model>IKEA СКОГСВИКЕН черный</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">1747</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="303.789.96">
+			<model>IKEA Фискбу 30378996 10х15 черный</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">1526</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="905.211.71">
+			<model>Подставка IKEA дерево</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">2987</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="203.729.47">
+			<model>Обеденная тарелка IKEA 25 см, 1 шт, стекло</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">1308</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="103.721.46">
+			<model>Форма для выпечки IKEA стекло, 1 шт</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">4199</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="404.272.70">
+			<model>IKEA Кноппэнг 40427270 13х18 белый</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">2736</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="104.771.91">
+			<model>IKEA миска 104.771.91 4 шт, керамика</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">8497</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="903.480.15">
+			<model>IKEA корзина универсальная 25x25x18 см, полиэстер</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">7313</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="604.284.81">
+			<model>Ложка IKEA 4 шт, серебристый Фернуфт 604.284.81</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">4988</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="704.847.25">
+			<model>Наволочка IKEA Гервэр 50x50 белый</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">10557</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="005.255.31">
+			<model>IKEA пакет 005.255.31 для хранения продуктов</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">2705</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="404.279.96">
+			<model>IKEA смешанный набор КВЭЛЛЬСВАРД 40427996 алюминий 3 в 1</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">38998</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="105.021.62">
+			<model>Ароматическая свеча IKEA Эмлик Ваниль 105.021.62 3 см, 30 шт</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">3963</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="105.757.09">
+			<model>Простыня IKEA 90x200, хлопок</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">11780</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="80275132">
+			<model>Стеллаж напольный HOFF, 80x29.5x190 см, бежевый</model>
+			<brand>HOFF</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">28671</cityprice>
 			</cityprices>
 		</offer>
 		<offer sku="905.558.54">
@@ -303,16 +523,6 @@
 				<cityprice cityId="631010000">1198</cityprice>
 			</cityprices>
 		</offer>
-		<offer sku="404.272.70">
-			<model>IKEA Кноппэнг 40427270 13х18 белый</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">2736</cityprice>
-			</cityprices>
-		</offer>
 		<offer sku="003.770.74">
 			<model>Миска IKEA 003.770.74 0.3 мл серебристый</model>
 			<brand>IKEA</brand>
@@ -353,64 +563,14 @@
 				<cityprice cityId="631010000">1396</cityprice>
 			</cityprices>
 		</offer>
-		<offer sku="104.265.59">
-			<model>Наволочка IKEA Айна 65x65 лен, 1 шт</model>
-			<brand>IKEA</brand>
+		<offer sku="VX1092672">
+			<model>Полка VX1092672 1 шт, пластик</model>
+			<brand>Без бренда</brand>
 			<availabilities>
 				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
 			</availabilities>
 			<cityprices>
-				<cityprice cityId="631010000">5998</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="804.475.82">
-			<model>Простыня IKEA 80x200, трикотаж</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">11001</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="105.288.69">
-			<model>Ковер IKEA 60x90 см, короткий ворс, Швеция</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">12352</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="604.796.06">
-			<model>IKEA Мариатерес 60479606 серый</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">9220</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="305.606.55">
-			<model>Простыня IKEA 150x200, полиэстер</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">7798</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="904.605.87">
-			<model>Подушка IKEA 50x60 см, полиэстерная вата</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">11998</cityprice>
+				<cityprice cityId="631010000">4287</cityprice>
 			</cityprices>
 		</offer>
 		<offer sku="304.652.91">
@@ -453,76 +613,6 @@
 				<cityprice cityId="631010000">43998</cityprice>
 			</cityprices>
 		</offer>
-		<offer sku="404.881.12">
-			<model>Портьеры IKEA 145x250 см 2 шт, полиэстер, зеленый</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">41998</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="903.789.98">
-			<model>IKEA прямоугольная Фискбу 903.789.98 13x18 см черный</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">1526</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="404.273.07">
-			<model>IKEA Кноппэнг 404.273.07 50x70 см белый</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">15140</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="205.596.43">
-			<model>IKEA бегония 14 см, 205.596.43 3 шт</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">4988</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="604.653.03">
-			<model>Простыня IKEA 80x130, хлопок</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">5882</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="503.916.52">
-			<model>Тюль IKEA 145x300 см 2 шт, полиэстер, розовый</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">15787</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="203.981.98">
-			<model>IKEA KVASP 203.981.98 розовый</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">3430</cityprice>
-			</cityprices>
-		</offer>
 		<offer sku="304.865.71">
 			<model>Простыня IKEA 140x200, хлопок</model>
 			<brand>IKEA</brand>
@@ -531,6 +621,16 @@
 			</availabilities>
 			<cityprices>
 				<cityprice cityId="631010000">14997</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="805.622.23">
+			<model>IKEA стакан EKOLN 1 шт, керамика</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">6498</cityprice>
 			</cityprices>
 		</offer>
 		<offer sku="703.805.58">
@@ -543,84 +643,14 @@
 				<cityprice cityId="631010000">4104</cityprice>
 			</cityprices>
 		</offer>
-		<offer sku="404.652.81">
-			<model>Простыня IKEA 80x130, хлопок</model>
+		<offer sku="403.097.85">
+			<model>IKEA ваза 17 см SANNOLIK 403.097.85, стекло</model>
 			<brand>IKEA</brand>
 			<availabilities>
 				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
 			</availabilities>
 			<cityprices>
-				<cityprice cityId="631010000">6962</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="005.342.86">
-			<model>Складной зонт IKEA механика черный, бежевый</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">7597</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="802.859.09">
-			<model>IKEA орхидея 58 см, ФЕЙКА 802.859.09</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">20596</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="497.02.00">
-			<model>Полка FALKO 2 497.02.00, 80х19.2x53.2 см, белый</model>
-			<brand>Без бренда</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">11998</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="504.316.29">
-			<model>Бра настенный IKEA Е14, серебристый</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">37883</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="904.892.27">
-			<model>IKEA аксессуар, полиэстер, хлопок, 83x55, 90489227</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">7198</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="004.287.14">
-			<model>IKEA Скогсвикен 00428714 черный</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">2374</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="704.696.64">
-			<model>IKEA TOTEBO 70469664 розовый</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">3021</cityprice>
+				<cityprice cityId="631010000">7073</cityprice>
 			</cityprices>
 		</offer>
 		<offer sku="705.606.39">
@@ -641,26 +671,6 @@
 			</availabilities>
 			<cityprices>
 				<cityprice cityId="631010000">20697</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="403.509.92">
-			<model>IKEA набор полотенец Вогшен 40350992 50x30 см 2 шт, хлопок</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">4997</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="204.628.39">
-			<model>IKEA рулонодержатель ГУЛЬТАРП 204.628.39 1 шт, нержавеющая сталь</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">4940</cityprice>
 			</cityprices>
 		</offer>
 		<offer sku="104.793.69">
@@ -733,16 +743,6 @@
 				<cityprice cityId="631010000">16198</cityprice>
 			</cityprices>
 		</offer>
-		<offer sku="603.501.230">
-			<model>IKEA ночник вилка тип А 603.501.230, металл, пластик</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">8988</cityprice>
-			</cityprices>
-		</offer>
 		<offer sku="103.833.38">
 			<model>Стеллаж напольный IKEA Бримнэс 103.833.38, 60x35x190 см, черный</model>
 			<brand>IKEA</brand>
@@ -761,26 +761,6 @@
 			</availabilities>
 			<cityprices>
 				<cityprice cityId="631010000">4988</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="904.922.39">
-			<model>IKEA ваза 21 см Чилифрукт, стекло</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">10787</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="903.726.61">
-			<model>IKEA набор посуды АННОНС 90372661 сталь, стекло 3 в 1</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">24697</cityprice>
 			</cityprices>
 		</offer>
 		<offer sku="304.236.92">
@@ -850,7 +830,7 @@
 				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
 			</availabilities>
 			<cityprices>
-				<cityprice cityId="631010000">7927</cityprice>
+				<cityprice cityId="631010000">7925</cityprice>
 			</cityprices>
 		</offer>
 		<offer sku="304.897.01">
@@ -860,7 +840,7 @@
 				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
 			</availabilities>
 			<cityprices>
-				<cityprice cityId="631010000">21985</cityprice>
+				<cityprice cityId="631010000">21983</cityprice>
 			</cityprices>
 		</offer>
 		<offer sku="505.035.98">
@@ -881,16 +861,6 @@
 			</availabilities>
 			<cityprices>
 				<cityprice cityId="631010000">14142</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="705.000.61">
-			<model>IKEA Вешалка настенная дерево, 57x5 см, HÖVOLM ХЁВОЛЬМ 705.000.61</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">21088</cityprice>
 			</cityprices>
 		</offer>
 		<offer sku="703.821.14">
@@ -931,26 +901,6 @@
 			</availabilities>
 			<cityprices>
 				<cityprice cityId="631010000">27681</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="904.939.55">
-			<model>Стол письменный IKEA Torald, 65х40x75 см, белый</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">27816</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="104.771.91">
-			<model>IKEA миска 104.771.91 4 шт, керамика</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">8497</cityprice>
 			</cityprices>
 		</offer>
 		<offer sku="003.911.12">
@@ -1073,16 +1023,6 @@
 				<cityprice cityId="631010000">8786</cityprice>
 			</cityprices>
 		</offer>
-		<offer sku="304.776.18">
-			<model>IKEA МОЛА 30477618 зеленый</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">1398</cityprice>
-			</cityprices>
-		</offer>
 		<offer sku="404.659.26">
 			<model>IKEA Неребю 40465926 береза</model>
 			<brand>IKEA</brand>
@@ -1130,7 +1070,7 @@
 				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
 			</availabilities>
 			<cityprices>
-				<cityprice cityId="631010000">3268</cityprice>
+				<cityprice cityId="631010000">3266</cityprice>
 			</cityprices>
 		</offer>
 		<offer sku="601.393.20">
@@ -1293,16 +1233,6 @@
 				<cityprice cityId="631010000">9722</cityprice>
 			</cityprices>
 		</offer>
-		<offer sku="004.305.90">
-			<model>Полка IKEA Лакк 00430590, 30х26x5 см, черный</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">8798</cityprice>
-			</cityprices>
-		</offer>
 		<offer sku="504.544.61">
 			<model>Портьеры IKEA 210x300 см 1 шт, полиэстер, голубой</model>
 			<brand>IKEA</brand>
@@ -1310,7 +1240,7 @@
 				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
 			</availabilities>
 			<cityprices>
-				<cityprice cityId="631010000">16857</cityprice>
+				<cityprice cityId="631010000">16855</cityprice>
 			</cityprices>
 		</offer>
 		<offer sku="204.408.52">
@@ -1393,16 +1323,6 @@
 				<cityprice cityId="631010000">13979</cityprice>
 			</cityprices>
 		</offer>
-		<offer sku="80275132">
-			<model>Стеллаж напольный HOFF, 80x29.5x190 см, бежевый</model>
-			<brand>HOFF</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">28671</cityprice>
-			</cityprices>
-		</offer>
 		<offer sku="603.335.86">
 			<model>IKEA Смикка Роза 40371744 красный</model>
 			<brand>IKEA</brand>
@@ -1411,16 +1331,6 @@
 			</availabilities>
 			<cityprices>
 				<cityprice cityId="631010000">2498</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="004.239.38">
-			<model>Ковер IKEA 60x90 см, короткий ворс, Швеция</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">11524</cityprice>
 			</cityprices>
 		</offer>
 		<offer sku="404.746.95">
@@ -1433,14 +1343,14 @@
 				<cityprice cityId="631010000">6398</cityprice>
 			</cityprices>
 		</offer>
-		<offer sku="401.036.33">
-			<model>Полка IKEA Лакк, 110х26x5 см, черный</model>
+		<offer sku="004.239.38">
+			<model>Ковер IKEA 60x90 см, короткий ворс, Швеция</model>
 			<brand>IKEA</brand>
 			<availabilities>
 				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
 			</availabilities>
 			<cityprices>
-				<cityprice cityId="631010000">29898</cityprice>
+				<cityprice cityId="631010000">11524</cityprice>
 			</cityprices>
 		</offer>
 		<offer sku="605.128.80">
@@ -1493,16 +1403,6 @@
 				<cityprice cityId="631010000">5349</cityprice>
 			</cityprices>
 		</offer>
-		<offer sku="905.413.48">
-			<model>Термокувшин IKEA Таггега 905.413.48 1.6 синий</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">13997</cityprice>
-			</cityprices>
-		</offer>
 		<offer sku="804.647.84">
 			<model>Портьеры IKEA 145x300 см 2 шт, полиэстер, белый</model>
 			<brand>IKEA</brand>
@@ -1511,6 +1411,16 @@
 			</availabilities>
 			<cityprices>
 				<cityprice cityId="631010000">17777</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="905.413.48">
+			<model>Термокувшин IKEA Таггега 905.413.48 1.6 синий</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">13997</cityprice>
 			</cityprices>
 		</offer>
 		<offer sku="303.708.96">
@@ -1563,16 +1473,6 @@
 				<cityprice cityId="631010000">8988</cityprice>
 			</cityprices>
 		</offer>
-		<offer sku="804.730.24">
-			<model>Набор бокалов IKEA 440 мл, стекло, 6 шт</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">6926</cityprice>
-			</cityprices>
-		</offer>
 		<offer sku="004.990.18">
 			<model>Наволочка IKEA Аскбрунмал 50x50 полиэстер, 1 шт</model>
 			<brand>IKEA</brand>
@@ -1613,14 +1513,94 @@
 				<cityprice cityId="631010000">9237</cityprice>
 			</cityprices>
 		</offer>
-		<offer sku="304.461.27">
-			<model>Ручка-раковина IKEA БЕГРИПА 30446127, металл, 130 мм, бирюзовый</model>
+		<offer sku="204.846.62">
+			<model>IKEA накидка для стула BRAMON 20484662 бежевый 34х34 см</model>
 			<brand>IKEA</brand>
 			<availabilities>
 				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
 			</availabilities>
 			<cityprices>
-				<cityprice cityId="631010000">4142</cityprice>
+				<cityprice cityId="631010000">1966</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="804.213.08">
+			<model>IKEA коробка универсальная 11x11x19 см, текстиль</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">8604</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="401.788.88">
+			<model>Табурет IKEA 401788.88, 50x43x39 см, белый</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">36998</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="803.973.13">
+			<model>Обувница IKEA 52x18x39 см, полипропилен</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">40498</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="903.608.80">
+			<model>Стул трансформер IKEA Гунде 90360880, 78x41x45 см, белый</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">22997</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="904.393.22">
+			<model>IKEA коврик ALSTERN 60x40 см, хлопок</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">7356</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="004.612.37">
+			<model>Сковорода IKEA  13 см , сталь</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">16104</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="702.438.73">
+			<model>Этажерка IKEA 702.438.73, металл, 26x48x77 см, белый</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">29500</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="505.197.64">
+			<model>IKEA декоративный цветок 12 см, 505.197.64</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">4197</cityprice>
 			</cityprices>
 		</offer>
 		<offer sku="904.326.60">
@@ -1631,6 +1611,16 @@
 			</availabilities>
 			<cityprices>
 				<cityprice cityId="631010000">7742</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="304.461.27">
+			<model>Ручка-раковина IKEA БЕГРИПА 30446127, металл, 130 мм, бирюзовый</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">4142</cityprice>
 			</cityprices>
 		</offer>
 		<offer sku="203.728.48">
@@ -1683,6 +1673,56 @@
 				<cityprice cityId="631010000">4292</cityprice>
 			</cityprices>
 		</offer>
+		<offer sku="804.731.04">
+			<model>Часы механические IKEA SNIFFA 80473104, пластик</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">3898</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="301.411.26">
+			<model>IKEA запасной блок для роллера 301.411.26 белый</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">4799</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="203.952.94">
+			<model>IKEA роза 20 см, ФЕЙКА 20395294</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">2998</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="803.871.30">
+			<model>IKEA Кноппэнг 80387130 13х18 черный</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">3033</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="903.643.74">
+			<model>IKEA сумка для белья 60x36x36 см, текстиль</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">11999</cityprice>
+			</cityprices>
+		</offer>
 		<offer sku="404.459.38">
 			<model>Ковер IKEA 60x90 см, короткий ворс, Китай</model>
 			<brand>IKEA</brand>
@@ -1723,16 +1763,6 @@
 				<cityprice cityId="631010000">40998</cityprice>
 			</cityprices>
 		</offer>
-		<offer sku="904.616.43">
-			<model>Наматрасник IKEA Луддрос 100807334, хлопок, полиэстер, белый</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">3779</cityprice>
-			</cityprices>
-		</offer>
 		<offer sku="204.793.59">
 			<model>Обеденная тарелка IKEA 16 см, 1 шт, керамика</model>
 			<brand>IKEA</brand>
@@ -1741,6 +1771,66 @@
 			</availabilities>
 			<cityprices>
 				<cityprice cityId="631010000">8016</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="904.616.43">
+			<model>Наматрасник IKEA Луддрос 100807334, хлопок, полиэстер, белый</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">3776</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="604.824.54">
+			<model>Простыня IKEA DVALA-1 180x200, хлопок</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">12417</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="203.352.38">
+			<model>Часы электронные IKEA Клоккис 20335238, пластик</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">3169</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="295.022.37">
+			<model>IKEA набор полотенец 295.022.37 70x40 см 4 шт, хлопок</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">9198</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="603.780.04">
+			<model>Набор столовых приборов IKEA 24 шт, серебристый Фернуфт 60378004</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">14892</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="204.801.69">
+			<model>IKEA Бактрадитион 204.801.69 белый-бирюзовый</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">8984</cityprice>
 			</cityprices>
 		</offer>
 		<offer sku="704.881.15">
@@ -1833,54 +1923,274 @@
 				<cityprice cityId="631010000">77998</cityprice>
 			</cityprices>
 		</offer>
-		<offer sku="801.795.79">
-			<model>Сушилка IKEA отдельностоящая одноярусная ,металл</model>
+		<offer sku="804.475.82">
+			<model>Простыня IKEA 80x200, трикотаж</model>
 			<brand>IKEA</brand>
 			<availabilities>
 				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
 			</availabilities>
 			<cityprices>
-				<cityprice cityId="631010000">4796</cityprice>
+				<cityprice cityId="631010000">11001</cityprice>
 			</cityprices>
 		</offer>
-		<offer sku="405.255.34">
-			<model>IKEA пакет 405.255.34 для замораживания, для хранения продуктов</model>
+		<offer sku="105.288.69">
+			<model>Ковер IKEA 60x90 см, короткий ворс, Швеция</model>
 			<brand>IKEA</brand>
 			<availabilities>
 				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
 			</availabilities>
 			<cityprices>
-				<cityprice cityId="631010000">3647</cityprice>
+				<cityprice cityId="631010000">12352</cityprice>
 			</cityprices>
 		</offer>
-		<offer sku="301.980.09">
-			<model>Крышка IKEA 57х39 см, пластик</model>
+		<offer sku="604.796.06">
+			<model>IKEA Мариатерес 60479606 серый</model>
 			<brand>IKEA</brand>
 			<availabilities>
 				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
 			</availabilities>
 			<cityprices>
-				<cityprice cityId="631010000">4198</cityprice>
+				<cityprice cityId="631010000">9220</cityprice>
 			</cityprices>
 		</offer>
-		<offer sku="103.721.46">
-			<model>Форма для выпечки IKEA стекло, 1 шт</model>
+		<offer sku="305.606.55">
+			<model>Простыня IKEA 150x200, полиэстер</model>
 			<brand>IKEA</brand>
 			<availabilities>
 				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
 			</availabilities>
 			<cityprices>
-				<cityprice cityId="631010000">4199</cityprice>
+				<cityprice cityId="631010000">7798</cityprice>
 			</cityprices>
 		</offer>
-		<offer sku="403.536.17">
-			<model>IKEA полотенце 403.536.17 70x40 см 1 шт, хлопок</model>
+		<offer sku="904.605.87">
+			<model>Подушка IKEA 50x60 см, полиэстерная вата</model>
 			<brand>IKEA</brand>
 			<availabilities>
 				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
 			</availabilities>
 			<cityprices>
-				<cityprice cityId="631010000">2186</cityprice>
+				<cityprice cityId="631010000">11998</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="903.789.98">
+			<model>IKEA прямоугольная Фискбу 903.789.98 13x18 см черный</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">1526</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="404.273.07">
+			<model>IKEA Кноппэнг 404.273.07 50x70 см белый</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">15140</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="404.881.12">
+			<model>Портьеры IKEA 145x250 см 2 шт, полиэстер, зеленый</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">41998</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="205.596.43">
+			<model>IKEA бегония 14 см, 205.596.43 3 шт</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">4988</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="604.653.03">
+			<model>Простыня IKEA 80x130, хлопок</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">5882</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="203.981.98">
+			<model>IKEA KVASP 203.981.98 розовый</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">3430</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="503.916.52">
+			<model>Тюль IKEA 145x300 см 2 шт, полиэстер, розовый</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">15787</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="704.696.64">
+			<model>IKEA TOTEBO 70469664 розовый</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">3021</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="404.652.81">
+			<model>Простыня IKEA 80x130, хлопок</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">6962</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="005.342.86">
+			<model>Складной зонт IKEA механика черный, бежевый</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">7597</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="802.859.09">
+			<model>IKEA орхидея 58 см, ФЕЙКА 802.859.09</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">20596</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="497.02.00">
+			<model>Полка FALKO 2 497.02.00, 80х19.2x53.2 см, белый</model>
+			<brand>Без бренда</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">11998</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="504.316.29">
+			<model>Бра настенный IKEA Е14, серебристый</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">37883</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="904.892.27">
+			<model>IKEA аксессуар, полиэстер, хлопок, 83x55, 90489227</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">7198</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="004.287.14">
+			<model>IKEA Скогсвикен 00428714 черный</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">2374</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="904.922.39">
+			<model>IKEA ваза 21 см Чилифрукт, стекло</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">10787</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="403.509.92">
+			<model>IKEA набор полотенец Вогшен 40350992 50x30 см 2 шт, хлопок</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">4997</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="204.628.39">
+			<model>IKEA рулонодержатель ГУЛЬТАРП 204.628.39 1 шт, нержавеющая сталь</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">4940</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="903.726.61">
+			<model>IKEA набор посуды АННОНС 90372661 сталь, стекло 3 в 1</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">24697</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="904.939.55">
+			<model>Стол письменный IKEA Torald, 65х40x75 см, белый</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">27816</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="304.776.18">
+			<model>IKEA МОЛА 30477618 зеленый</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">1398</cityprice>
+			</cityprices>
+		</offer>
+		<offer sku="804.730.24">
+			<model>Набор бокалов IKEA 440 мл, стекло, 6 шт</model>
+			<brand>IKEA</brand>
+			<availabilities>
+				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
+			</availabilities>
+			<cityprices>
+				<cityprice cityId="631010000">6926</cityprice>
 			</cityprices>
 		</offer>
 		<offer sku="901.992.04">
@@ -1891,346 +2201,6 @@
 			</availabilities>
 			<cityprices>
 				<cityprice cityId="631010000">1000</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="304.508.12">
-			<model>IKEA Вескен 30450812 черный</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">14285</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="304.287.03">
-			<model>IKEA СКОГСВИКЕН черный</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">1747</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="303.789.96">
-			<model>IKEA Фискбу 30378996 10х15 черный</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">1526</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="905.211.71">
-			<model>Подставка IKEA дерево</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">2987</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="203.729.47">
-			<model>Обеденная тарелка IKEA 25 см, 1 шт, стекло</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">1308</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="903.480.15">
-			<model>IKEA корзина универсальная 25x25x18 см, полиэстер</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">7313</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="305.566.96">
-			<model>IKEA саморез универсальный (4.5х40 мм), 175 шт.</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">7898</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="604.284.81">
-			<model>Ложка IKEA 4 шт, серебристый Фернуфт 604.284.81</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">4988</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="704.847.25">
-			<model>Наволочка IKEA Гервэр 50x50 белый</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">10557</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="005.255.31">
-			<model>IKEA пакет 005.255.31 для хранения продуктов</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">2705</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="404.279.96">
-			<model>IKEA смешанный набор КВЭЛЛЬСВАРД 40427996 алюминий 3 в 1</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">38998</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="105.021.62">
-			<model>Ароматическая свеча IKEA Эмлик Ваниль 105.021.62 3 см, 30 шт</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">3963</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="VX1092672">
-			<model>Полка VX1092672 1 шт, пластик</model>
-			<brand>Без бренда</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">4287</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="805.622.23">
-			<model>IKEA стакан EKOLN 1 шт, керамика</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">6498</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="403.097.85">
-			<model>IKEA ваза 17 см SANNOLIK 403.097.85, стекло</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">7073</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="204.846.62">
-			<model>IKEA накидка для стула BRAMON 20484662 бежевый 34х34 см</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">1966</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="804.213.08">
-			<model>IKEA коробка универсальная 11x11x19 см, текстиль</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">8604</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="401.788.88">
-			<model>Табурет IKEA 401788.88, 50x43x39 см, белый</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">36998</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="903.608.80">
-			<model>Стул трансформер IKEA Гунде 90360880, 78x41x45 см, белый</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">22997</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="803.973.13">
-			<model>Обувница IKEA 52x18x39 см, полипропилен</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">40498</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="904.393.22">
-			<model>IKEA коврик ALSTERN 60x40 см, хлопок</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">7356</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="004.612.37">
-			<model>Сковорода IKEA  13 см , сталь</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">16104</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="702.438.73">
-			<model>Этажерка IKEA 702.438.73, металл, 26x48x77 см, белый</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">29500</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="505.197.64">
-			<model>IKEA декоративный цветок 12 см, 505.197.64</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">4197</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="804.731.04">
-			<model>Часы механические IKEA SNIFFA 80473104, пластик</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">3898</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="301.411.26">
-			<model>IKEA запасной блок для роллера 301.411.26 белый</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">4799</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="203.952.94">
-			<model>IKEA роза 20 см, ФЕЙКА 20395294</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">2998</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="803.871.30">
-			<model>IKEA Кноппэнг 80387130 13х18 черный</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">3033</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="903.643.74">
-			<model>IKEA сумка для белья 60x36x36 см, текстиль</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">11999</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="604.824.54">
-			<model>Простыня IKEA DVALA-1 180x200, хлопок</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">12417</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="203.352.38">
-			<model>Часы электронные IKEA Клоккис 20335238, пластик</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">3169</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="295.022.37">
-			<model>IKEA набор полотенец 295.022.37 70x40 см 4 шт, хлопок</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">9198</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="603.780.04">
-			<model>Набор столовых приборов IKEA 24 шт, серебристый Фернуфт 60378004</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">14892</cityprice>
-			</cityprices>
-		</offer>
-		<offer sku="204.801.69">
-			<model>IKEA Бактрадитион 204.801.69 белый-бирюзовый</model>
-			<brand>IKEA</brand>
-			<availabilities>
-				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
-			</availabilities>
-			<cityprices>
-				<cityprice cityId="631010000">8984</cityprice>
 			</cityprices>
 		</offer>
 		<offer sku="904.603.56">
@@ -2300,7 +2270,7 @@
 				<availability available="yes" storeId="682001_PP1" preOrder="0"/>
 			</availabilities>
 			<cityprices>
-				<cityprice cityId="631010000">34968</cityprice>
+				<cityprice cityId="631010000">34966</cityprice>
 			</cityprices>
 		</offer>
 	</offers>
